@@ -1,4 +1,9 @@
-git add Conversion.java
-git commit -m "[Aman kumar gola]: added conversion program"
-git push origin core-java-practice
- 
+
+class Conversion {
+    public static void main(String[] args) {
+        int rup = 10;
+        int Dollar = 10*85;
+        
+        System.out.println("Rupee into Dollar " + Dollar);
+    }
+}
