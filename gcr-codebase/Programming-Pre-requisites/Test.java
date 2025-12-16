@@ -1,5 +1,5 @@
 class Test {
     public static void main(String[] args) {
-        System.out.println("Welcome to BridgeLab");
+        System.out.println("Welcome to BridgeLab Training");
     }
 }
