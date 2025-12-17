@@ -1,7 +1,10 @@
+import java.util.*;
 class Volume{
 	public static void main(String args[]){
-		int side=5;
-		System.out.println("Volume of cube " + (5*5*5));
+		Scanner kb=new Scanner(System.in);
+		double r=kb.nextDouble();
+		double h=kb.nextDouble();
+		System.out.println("Volume of cylinder " + Math.PI*(r*r)*h);
 	
 	}
 }
