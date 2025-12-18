@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class ConversionYardToMiles {
     public static void main(String[] args) {
+        
         Scanner input = new Scanner(System.in);
 
         double feet = input.nextDouble();
