@@ -1,5 +1,7 @@
 import java.util.*;
+
 public class IntOperation {
+	
 	public static void solveExpression (){
 		Scanner sc = new Scanner(System.in);
 		System.out.println("Enter the value of a " );
