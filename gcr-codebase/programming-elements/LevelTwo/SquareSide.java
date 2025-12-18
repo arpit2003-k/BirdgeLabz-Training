@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class SquareSide {
     public static void main(String[] args) {
+        
         Scanner input = new Scanner(System.in);
 
         double perimeter = input.nextDouble();
