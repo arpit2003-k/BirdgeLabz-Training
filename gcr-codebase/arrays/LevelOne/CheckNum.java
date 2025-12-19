@@ -41,7 +41,7 @@ import java.util.Scanner;
                         }
                         else{
                            System.out.println(" The first Number is Equal to last Number in the array");
-                        }
+                         }
 
                 kb.close();
                 
