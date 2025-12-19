@@ -27,7 +27,8 @@
 
             		}else{
             			System.out.println("Student with the age "+ studentAge[i]+" is Not Eligible for Vote." );
-            		}
+            		} 
+            		
 
             	}
              } 
