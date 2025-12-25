@@ -45,24 +45,28 @@ This repository contains my daily learnings and practice programs completed as p
 
 #### 📂 Repository Structure (Partial View)
 
+```text
 BridgeLabz-Training/
 └── core-java-practice/
-├── gcr-codebase/
-│ ├── programming-prerequisites/
-│ ├── programming-elements/
-│ ├── control-flows/
-│ ├── arrays/
-│ ├── java-methods/
-│ ├── java-strings/
-│ └── string-handling/
-├── leet-code-codebase/
-├── scenario-based/
-└── README.md
+    ├── gcr-codebase/
+    │   ├── programming-prerequisites/
+    │   ├── programming-elements/
+    │   ├── control-flows/
+    │   ├── arrays/
+    │   ├── java-methods/
+    │   ├── java-strings/
+    │   └── string-handling/
+    ├── leet-code-codebase/
+    ├── scenario-based/
+    └── README.md
+```
+
 
 > Note: Only the main practice folders are shown here.
 
 
 🔗 **Code Link (Day 1):**
-[https://github.com/arpit2003-k/BirdgeLabz-Training/tree/core-java-practice/gcr-codebase/Programming-Pre-requisites]([https://github.com/arpit2003-k/BirdgeLabz-Training/tree/core-java-practice/gcr-codebase/Programming-Pre-requisites])
+[Programming Pre-requisites](https://github.com/arpit2003-k/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-prerequisites)
+
 
 ---
