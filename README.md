@@ -133,3 +133,34 @@ BridgeLabz-Training/
 **🔗 Code Link (Day 3): 👉 [_control flow_](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow)_**
 
 ---
+### 🔹 Day 4 – Java Arrays  
+**Date: 19-Dec-2025**
+
+* Learned core concepts of Java arrays  
+* Created single-dimensional arrays  
+* Accessed elements using index  
+* Iterated arrays using loops  
+* Modified array elements  
+* Used `length` property  
+
+#### 🧪 Java Programs Implemented
+* Single-dimensional array programs  
+* Array traversal & modification  
+* Multi-dimensional array programs  
+* 2D matrix programs  
+* Programs to access size & elements  
+
+#### 🛠 Concepts & Practices
+* Worked with multi-dimensional arrays  
+* Improved data storage understanding  
+* Used `System.err()` for errors  
+* Used `System.exit()`  
+* Followed naming conventions  
+
+#### 🧰 Practiced Git Workflow
+* Committing changes  
+* Pushing code to GitHub  
+
+**🔗 Code Link (Day 4): 👉 _[Arrays](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays)_**
+
+---
