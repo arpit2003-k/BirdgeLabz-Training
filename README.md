@@ -237,3 +237,40 @@ BridgeLabz-Training/
 **🔗 Code Link (Day 6): 👉 _[Strings](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/core-java-practice/gcr-codebase/Strings)_**
 
 ---
+
+### 🔹 Day 7 & 8 – Extra Strings, Built-in Functions & Date-Time  
+**Date: 23-Dec-2025/24-Dec-2025**
+
+* Revised string handling  
+* Practiced common string functions  
+* Worked on string & date-time problems  
+* Used parameter passing & return values  
+* Followed functional programming structure  
+
+#### 🧰 Built-in Functions & Utilities
+* `Random` class  
+* `Math` class  
+* Java Date & Time (Java 8+)  
+* Real-world use cases  
+
+#### 🧪 Extra Programs Implemented
+* Number Guessing Game  
+* Max of three numbers  
+* Prime number checker  
+* Fibonacci generator  
+* Palindrome checker  
+* Factorial (recursion)  
+* GCD & LCM calculator  
+* Temperature converter  
+* Basic calculator  
+
+#### 🛠 Best Practices Followed
+* Used variables for inputs & outputs  
+* Wrote reusable methods  
+* Followed naming conventions  
+* Maintained clean structure  
+* Separated input, logic & output  
+
+**🔗 Code Link (Day 7 & 8): 👉 _[Extra-Questions-String-Handling](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/core-java-practice/gcr-codebase/Extra-Questions)_**
+
+---
