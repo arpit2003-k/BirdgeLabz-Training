@@ -164,3 +164,36 @@ BridgeLabz-Training/
 **🔗 Code Link (Day 4): 👉 _[Arrays](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays)_**
 
 ---
+
+### 🔹 Day 5 – Java Methods  
+**Date: 20-Dec-2025**
+
+* Learned user-defined methods  
+* Reused methods in programs  
+* Passed parameters to methods  
+* Implemented recursive methods  
+* Worked with static methods  
+
+#### 🧪 Java Programs Implemented
+* Level-1 method-based programs  
+* Parameterized method programs  
+* Advanced logic programs  
+* Method reuse programs  
+* Recursive programs  
+* Programs using static methods  
+* Programs using Java library methods  
+
+#### 🛠 Concepts & Practices
+* Solved Level-1, Level-2 & Level-3 problems  
+* Used `java.lang.Math` class  
+* Improved modular coding  
+* Reduced duplication  
+* Followed naming conventions  
+
+#### 🧰 Practiced Git Workflow
+* Committing changes  
+* Pushing code to GitHub  
+
+**🔗 Code Link (Day 5): 👉 _[Methods](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/core-java-practice/gcr-codebase/Methods)_**
+
+---
