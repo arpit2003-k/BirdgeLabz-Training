@@ -197,3 +197,43 @@ BridgeLabz-Training/
 **🔗 Code Link (Day 5): 👉 _[Methods](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/core-java-practice/gcr-codebase/Methods)_**
 
 ---
+
+## 📅 Week 2:  Java Programming Topic Practice
+
+### 🔹 Day 6 – Java Strings & Exceptions  
+**Date: 22-Dec-2025**
+
+* Learned core String concepts  
+* Created & manipulated Strings  
+* Used escape sequence `\"`  
+* Took string input  
+* Worked with string arrays  
+* Passed strings to methods  
+* Used built-in String methods  
+* Learned ASCII codes  
+
+#### ⚠️ Java Exceptions
+* Introduction to exceptions  
+* Exception hierarchy  
+* Types of exceptions  
+* Worked with:
+  * Unchecked exceptions (`RuntimeException`)  
+  * Checked exceptions  
+
+#### 🧪 Java Programs Implemented
+* Basic string operations  
+* String method-based programs  
+* Advanced string logic  
+* Exception handling programs  
+* Checked & unchecked exception handling  
+
+#### 🛠 Best Practices Followed
+* Used variables for inputs & constants  
+* Wrote logic inside methods  
+* Followed proper naming  
+* Maintained meaningful class & method names  
+* Handled exceptions wherever needed  
+
+**🔗 Code Link (Day 6): 👉 _[Strings](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/core-java-practice/gcr-codebase/Strings)_**
+
+---
