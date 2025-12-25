@@ -69,4 +69,36 @@ BridgeLabz-Training/
 [Programming Pre-requisites](https://github.com/arpit2003-k/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-prerequisites)
 
 
+### 🔹 Day 2 – Programming Elements  
+**Date: 17-Dec-2025**
+
+* Solved Level-1 and Level-2 programming problems  
+* Practiced core programming elements in Java  
+* Worked with variables and data types  
+* Used operators for calculations  
+* Implemented user input and output  
+
+#### 🧪 Java Programs Implemented
+* Average marks calculation  
+* Age calculation  
+* Unit conversion programs  
+* Loop-based programs  
+* Conditional logic programs  
+
+#### 🛠 Concepts & Practices
+* Used conditional statements (`if`, `else`)  
+* Applied looping concepts:
+  * `for` loop  
+  * `while` loop  
+* Improved logical thinking and problem-solving  
+* Followed proper naming conventions  
+
+#### 🧰 Practiced Git Workflow
+* Adding files  
+* Committing changes  
+* Pushing code to GitHub  
+
+**🔗 Code Link (Day 2): 👉 [_programing elements_](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements)**
+
+
 ---
