@@ -102,3 +102,34 @@ BridgeLabz-Training/
 
 
 ---
+
+### 🔹 Day 3 – Java Control Flows  
+**Date: 18-Dec-2025**
+
+* Learned Java control flow concepts  
+* Worked with Boolean data type  
+* Practiced boolean expressions  
+* Used logical operators (`&&`, `||`, `!`)  
+
+#### 🧪 Java Programs Implemented
+* Programs using `if` statements  
+* Programs using `else if` and `else`  
+* Loop-based programs using:
+  * `for` loop  
+  * `while` loop  
+* Programs using `break` and `continue`  
+* Menu-driven programs using `switch`  
+
+#### 🛠 Concepts & Practices
+* Implemented decision-making logic  
+* Improved understanding of execution flow  
+* Followed proper naming conventions  
+* Used methods for better code structure  
+
+#### 🧰 Practiced Git Workflow
+* Committing changes  
+* Pushing code to GitHub  
+
+**🔗 Code Link (Day 3): 👉 [_control flow_](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow)_**
+
+---
