@@ -198,8 +198,6 @@ BridgeLabz-Training/
 
 ---
 
-## 📅 Week 2:  Java Programming Topic Practice
-
 ### 🔹 Day 6 – Java Strings & Exceptions  
 **Date: 22-Dec-2025**
 
