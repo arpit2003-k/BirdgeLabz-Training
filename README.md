@@ -66,7 +66,7 @@ BridgeLabz-Training/
 
 
 🔗 **Code Link (Day 1):**
-[Programming Pre-requisites](https://github.com/arpit2003-k/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-prerequisites)
+[Programming Pre-requisites](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/core-java-practice/gcr-codebase/Programming-Pre-requisites)
 
 
 ### 🔹 Day 2 – Programming Elements  
@@ -238,8 +238,8 @@ BridgeLabz-Training/
 
 ---
 
-### 🔹 Day 7 & 8 – Extra Strings, Built-in Functions & Date-Time  
-**Date: 23-Dec-2025/24-Dec-2025**
+### 🔹 Day 7 – Extra Strings, Built-in Functions & Date-Time  
+**Date: 23-Dec-2025**
 
 * Revised string handling  
 * Practiced common string functions  
@@ -271,6 +271,6 @@ BridgeLabz-Training/
 * Maintained clean structure  
 * Separated input, logic & output  
 
-**🔗 Code Link (Day 7 & 8): 👉 _[Extra-Questions-String-Handling](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/core-java-practice/gcr-codebase/Extra-Questions)_**
+**🔗 Code Link (Day 7 ): 👉 _[Extra-Questions-String-Handling](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/core-java-practice/gcr-codebase/Extra-Questions)_**
 
 ---
