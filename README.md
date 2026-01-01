@@ -272,3 +272,46 @@ BridgeLabz-Training/
 * Separated input, logic & output  
 
 **🔗 Code Link (Day 7 ): 👉 _[Extra-Questions-String-Handling](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/core-java-practice/gcr-codebase/Extra-Questions)_**
+
+---
+## 📅 Week 2: Java Programming Fundamentals Practice && Introduction to Java Oops concept and Eclipse IDE 
+
+### 🔹 Day 8 – Scenario based Questions for the Core java Fundamentals && Introduction to classes and object 
+**Date: 26-Dec-2025**
+* Revised Core-concepts  
+* Practiced Control flows  
+* used proper approach to Solve the problems  
+* Followed functional programming structure
+
+* Learned Java oops fundamentals and basic syntax
+* Understood Java Oops programming paradigm structure
+* Worked with class and object
+* Practiced basic Questions
+
+#### 🛠 Best Practices Followed
+* Used variables for inputs & outputs  
+* Wrote reusable methods  
+* Followed naming conventions  
+* Maintained clean structure  
+* Separated input, logic & output
+
+#### 🧪 Java Programs Implemented
+
+* Employee class
+* Item class
+* Handbook class
+* Circle class
+* MobilePhone Class
+
+#### 🛠 Tools & Practices
+
+* Used Eclipse IDE for coding 
+* Followed proper naming conventions
+* Learned Git and GitHub
+* Created a local Git repository
+* Added Java files to the repository
+* Committed changes using Git
+* Pushed local files to GitHub
+
+**🔗 Code Link (Day 8 ): 👉 _[Scenario-based-codeBase](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/core-java-practice/scenario-base-codebase)_**
+**🔗 Code Link (Day 8 ): 👉 _[class-and-objects](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/classandobject)_**
