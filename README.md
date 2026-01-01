@@ -272,3 +272,20 @@ BridgeLabz-Training/
 **🔗 Code Link (Day 7 ): 👉 _[Extra-Questions-String-Handling](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/core-java-practice/gcr-codebase/Extra-Questions)_**
 
 ---
+## 📅 Week 2: Java Programming Fundamentals Practice
+
+### 🔹 Day 8 – Scenario based Questions for the Core java Fundamentals  
+**Date: 24-Dec-2025**
+* Revised Core-concepts  
+* Practiced Control flows  
+* used proper approach to Solve the problems  
+* Followed functional programming structure 
+
+#### 🛠 Best Practices Followed
+* Used variables for inputs & outputs  
+* Wrote reusable methods  
+* Followed naming conventions  
+* Maintained clean structure  
+* Separated input, logic & output
+
+**🔗 Code Link (Day 8 ): 👉 _[Scenario-based-codeBase](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/core-java-practice/scenario-base-codebase)_**
