@@ -315,3 +315,90 @@ BridgeLabz-Training/
 
 **🔗 Code Link (Day 8 ): 👉 _[Scenario-based-codeBase](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/core-java-practice/scenario-base-codebase)_**
 **🔗 Code Link (Day 8 ): 👉 _[class-and-objects](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/classandobject)_**
+
+---
+### 🔹 Day 9 – Scenario based Questions for the Core java Fundamentals  
+**Date: 27-Dec-2025**
+* Revised Core-concepts  
+* Practiced Control flows
+* if Else, Loops  
+* used proper approach to Solve the problems  
+* Followed functional programming structure 
+
+#### 🛠 Best Practices Followed
+* Used variables for inputs & outputs  
+* Wrote reusable methods  
+* Followed naming conventions  
+* Maintained clean structure  
+* Separated input, logic & output
+
+**🔗 Code Link (Day 9 ): 👉 _[Scenario-based-codeBase](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/core-java-practice/scenario-base-codebase)_**
+---
+### 🔹 Day 10 – Scenario based Questions for the Core java Fundamentals  
+**Date: 28-Dec-2025**
+* Revised Core-concepts  
+* Practiced Control flows
+* if Else, Loops  
+* used proper approach to Solve the problems  
+* Followed functional programming structure 
+
+#### 🛠 Best Practices Followed
+* Used variables for inputs & outputs  
+* Wrote reusable methods  
+* Followed naming conventions  
+* Maintained clean structure  
+* Separated input, logic & output
+
+**🔗 Code Link (Day 10 ): 👉 _[Scenario-based-codeBase](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/core-java-practice/scenario-base-codebase)_**
+---
+### 🔹 Day 11 – Scenario based Questions for the Core java Fundamentals  
+**Date: 29-Dec-2025**
+* Revised Core-concepts  
+* Practiced Control flows
+* if Else, Loops  
+* used proper approach to Solve the problems  
+* Followed functional programming structure 
+
+#### 🛠 Best Practices Followed
+* Used variables for inputs & outputs  
+* Wrote reusable methods  
+* Followed naming conventions  
+* Maintained clean structure  
+* Separated input, logic & output
+
+**🔗 Code Link (Day 11 ): 👉 _[Scenario-based-codeBase](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/core-java-practice/scenario-base-codebase)_**
+---
+### 🔹 Day 12 – Scenario based Questions for the Core java Fundamentals  
+**Date: 30-Dec-2025**
+* Revised Core-concepts  
+* Practiced Control flows
+* if Else, Loops  
+* used proper approach to Solve the problems  
+* Followed functional programming structure 
+
+#### 🛠 Best Practices Followed
+* Used variables for inputs & outputs  
+* Wrote reusable methods  
+* Followed naming conventions  
+* Maintained clean structure  
+* Separated input, logic & output
+
+**🔗 Code Link (Day 12 ): 👉 _[Scenario-based-codeBase](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/core-java-practice/scenario-base-codebase)_**
+---
+### 🔹 Day 13 – Scenario based Questions for the Core java Fundamentals  
+**Date: 31-Dec-2025**
+* Revised Core-concepts  
+* Practiced Control flows
+* if Else, Loops
+* Arrays loops switch 
+* used proper approach to Solve the problems  
+* Followed functional programming structure 
+
+#### 🛠 Best Practices Followed
+* Used variables for inputs & outputs  
+* Wrote reusable methods  
+* Followed naming conventions  
+* Maintained clean structure  
+* Separated input, logic & output
+
+**🔗 Code Link (Day 13 ): 👉 _[Scenario-based-codeBase](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/core-java-practice/scenario-base-codebase)_**
