@@ -359,13 +359,25 @@ BridgeLabz-Training/
 
 **🔗 Code Link (Day 10 ): 👉 _[Scenario-based-codeBase](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/core-java-practice/scenario-base-codebase)_**
 ---
-### 🔹 Day 11 – Scenario based Questions for the Core java Fundamentals  
+### 🔹 Day 11 – Scenario based Questions for the Core java Fundamentals && the Introduction to the inbuilt fuctinality in java lots of keywords..   
 **Date: 29-Dec-2025**
 * Revised Core-concepts  
 * Practiced Control flows
 * if Else, Loops  
 * used proper approach to Solve the problems  
-* Followed functional programming structure 
+* Followed functional programming structure
+
+* Learn about the keywords in java like ----
+* this - keyword
+* super- keyword
+* static - keyword
+* and there appliaction in java oops
+
+* practice problem like
+* Emp Managemet
+* library management
+* student management
+* shopping cart application etc...
 
 #### 🛠 Best Practices Followed
 * Used variables for inputs & outputs  
@@ -375,6 +387,7 @@ BridgeLabz-Training/
 * Separated input, logic & output
 
 **🔗 Code Link (Day 11 ): 👉 _[Scenario-based-codeBase](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/core-java-practice/scenario-base-codebase)_**
+👉 _[GCR-OOP-inbuiltfuctions](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/inbuiltfuctions)_**
 ---
 ### 🔹 Day 12 – Scenario based Questions for the Core java Fundamentals  
 **Date: 30-Dec-2025**
