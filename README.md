@@ -53,8 +53,8 @@ BridgeLabz-Training/
 **🔗 Code Link (Day 8 ): 👉 _[class-and-objects](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/classandobject)_**
 ---
 
-### 🔹 Day 8: Introduction to Constructor in oops 
-
+### 🔹 Day 9: Introduction to Constructor in oops 
+**Date: 27-Dec-2025**
 * Learned Java oops fundamentals and basic syntax of contructor and the Type of constructor 
 * Understood Types of constructor in java 
 * Worked with class and object
@@ -74,3 +74,32 @@ BridgeLabz-Training/
 
 **🔗 Code Link (Day 9 ):
                         👉 _[OOPS-Constructor](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/constructor)_**
+
+### 🔹 Day 10 – Scenario based Questions for the Core java Fundamentals && the Introduction to the inbuilt fuctinality in java lots of keywords..   
+**Date: 29-Dec-2025**
+* Revised Core-concepts  
+* Practiced Control flows
+* if Else, Loops  
+* used proper approach to Solve the problems  
+* Followed functional programming structure
+
+* Learn about the keywords in java like ----
+* this - keyword
+* super- keyword
+* static - keyword
+* and there appliaction in java oops
+
+* practice problem like
+* Emp Managemet
+* library management
+* student management
+* shopping cart application etc...
+
+#### 🛠 Best Practices Followed
+* Used variables for inputs & outputs  
+* Wrote reusable methods  
+* Followed naming conventions  
+* Maintained clean structure  
+* Separated input, logic & output
+
+**🔗 Code Link (Day 11 ):👉 _[GCR-OOP-inbuiltfuctions](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/inbuiltfuctions)_**
