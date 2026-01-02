@@ -51,3 +51,26 @@ BridgeLabz-Training/
 ```
 > Note: Only the main practice folders are shown here.
 **🔗 Code Link (Day 8 ): 👉 _[class-and-objects](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/classandobject)_**
+---
+
+### 🔹 Day 8: Introduction to Constructor in oops 
+
+* Learned Java oops fundamentals and basic syntax of contructor and the Type of constructor 
+* Understood Types of constructor in java 
+* Worked with class and object
+* Practiced basic Questions
+
+#### 🧪 Java Programs Implemented intialization throught Constructor
+
+* Employee management 
+* Student management 
+* Bank management
+
+#### 🛠 Tools & Practices
+
+* Used Eclipse IDE for coding 
+* Followed proper naming conventions
+* git for add commit and push to remote repo..
+
+**🔗 Code Link (Day 9 ):
+                        👉 _[OOPS-Constructor](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/constructor)_**
