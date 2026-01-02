@@ -75,7 +75,7 @@ BridgeLabz-Training/
 **🔗 Code Link (Day 9 ):
                         👉 _[OOPS-Constructor](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/constructor)_**
 
-### 🔹 Day 10 – Scenario based Questions for the Core java Fundamentals && the Introduction to the inbuilt fuctinality in java lots of keywords..   
+### 🔹 Day 11 – Scenario based Questions for the Core java Fundamentals && the Introduction to the inbuilt fuctinality in java lots of keywords..   
 **Date: 29-Dec-2025**
 * Revised Core-concepts  
 * Practiced Control flows
