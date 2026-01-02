@@ -317,13 +317,20 @@ BridgeLabz-Training/
 **🔗 Code Link (Day 8 ): 👉 _[class-and-objects](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/classandobject)_**
 
 ---
-### 🔹 Day 9 – Scenario based Questions for the Core java Fundamentals  
+### 🔹 Day 9 – Scenario based Questions for the Core java Fundamentals && The introduction to the constructor in java   
 **Date: 27-Dec-2025**
 * Revised Core-concepts  
 * Practiced Control flows
 * if Else, Loops  
 * used proper approach to Solve the problems  
-* Followed functional programming structure 
+* Followed functional programming structure
+
+* Solved the problem related classes object and the constructor to instialize the Feilds in the class
+* Problem like ----
+* GCR codebase problems like
+* BankAccount System
+* Student managment
+* Employee management
 
 #### 🛠 Best Practices Followed
 * Used variables for inputs & outputs  
@@ -333,6 +340,7 @@ BridgeLabz-Training/
 * Separated input, logic & output
 
 **🔗 Code Link (Day 9 ): 👉 _[Scenario-based-codeBase](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/core-java-practice/scenario-base-codebase)_**
+                        👉 _[OOPS-Constructor](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/constructor)_**
 ---
 ### 🔹 Day 10 – Scenario based Questions for the Core java Fundamentals  
 **Date: 28-Dec-2025**
