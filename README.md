@@ -75,7 +75,7 @@ BridgeLabz-Training/
 **🔗 Code Link (Day 9 ):
                         👉 _[OOPS-Constructor](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/constructor)_**
 
-### 🔹 Day 11 – Scenario based Questions for the Core java Fundamentals && the Introduction to the inbuilt fuctinality in java lots of keywords..   
+### 🔹 Day 11 – the Introduction to the inbuilt fuctinality in java lots of keywords..   
 **Date: 29-Dec-2025**
 * Revised Core-concepts  
 * Practiced Control flows
@@ -103,3 +103,32 @@ BridgeLabz-Training/
 * Separated input, logic & output
 
 **🔗 Code Link (Day 11 ):👉 _[GCR-OOP-inbuiltfuctions](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/inbuiltfuctions)_**
+---
+### 🔹 Day 12 – The Introduction to the Class Diagram and the Reltion in class and Object Modelling in OOPS java    
+**Date: 30-Dec-2025**
+
+#### 🧪 Java Programs Implemented intialization throught Object Diagram and Relation between the objects..
+
+* Revised Core-concepts  
+* Followed functional programming structure
+
+* Learn about the keywords in java like ----
+* Class diagram
+* object diagram
+* sequence diagram
+* Association Aggregation and composition and there appliaction in java oops
+
+#### practice problem like
+* Emp Managemet
+* library management
+* student management
+* University Managment etc...
+
+#### 🛠 Best Practices Followed
+* Used variables for inputs & outputs  
+* Wrote reusable methods  
+* Followed naming conventions  
+* Maintained clean structure  
+* Separated input, logic & output
+
+**🔗 Code Link (Day 12 ):👉 _[GCR-OOP-ObjectModelling](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/objectmodelling)_**
