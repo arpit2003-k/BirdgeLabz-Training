@@ -389,13 +389,20 @@ BridgeLabz-Training/
 **🔗 Code Link (Day 11 ): 👉 _[Scenario-based-codeBase](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/core-java-practice/scenario-base-codebase)_**
 👉 _[GCR-OOP-inbuiltfuctions](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/inbuiltfuctions)_**
 ---
-### 🔹 Day 12 – Scenario based Questions for the Core java Fundamentals  
+### 🔹 Day 12 – Scenario based Questions for the Core java Fundamentals  &&  The Introduction to the Class Diagram and the Reltion in class and Object Modelling in OOPS java
 **Date: 30-Dec-2025**
+
 * Revised Core-concepts  
 * Practiced Control flows
 * if Else, Loops  
 * used proper approach to Solve the problems  
-* Followed functional programming structure 
+* Followed functional programming structure
+#### 🧪 Java Programs Implemented intialization throught Object Diagram and Relation between the objects..
+* Learn about the keywords in java like ----
+* Class diagram
+* object diagram
+* sequence diagram
+* Association Aggregation and composition and there appliaction in java oops
 
 #### 🛠 Best Practices Followed
 * Used variables for inputs & outputs  
@@ -405,6 +412,7 @@ BridgeLabz-Training/
 * Separated input, logic & output
 
 **🔗 Code Link (Day 12 ): 👉 _[Scenario-based-codeBase](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/core-java-practice/scenario-base-codebase)_**
+                          👉 _[GCR-OOP-ObjectModelling](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/objectmodelling)_**
 ---
 ### 🔹 Day 13 – Scenario based Questions for the Core java Fundamentals  
 **Date: 31-Dec-2025**
