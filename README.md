@@ -440,4 +440,4 @@ BridgeLabz-Training/
 * Separated input, logic & output
 
 **🔗 Code Link (Day 13 ): 👉 _[Scenario-based-codeBase](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/core-java-practice/scenario-base-codebase)_**
-                          👉 _[Inheritence and polymorphism](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/inheritanceandpolymorphism)_**
+                          👉 _[Inheritence and polymorphism](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/inheritance)_**
