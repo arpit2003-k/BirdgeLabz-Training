@@ -484,4 +484,44 @@ BridgeLabz-Training/
 ---
 ## 📅 Week 2: Data Structure and Algorithm in Java
 
+### 🔹 Day 15 –  Practice the Scenario based problem of OOP Stort Driven Questions
+
+**Date: 02-Jan-2026**
+
+* Revised Core-concepts  
+* used proper approach to Solve the problems  
+* Followed functional programming structure
+
+### 🧪 Java Programs Implemented Linked List and Core concept DSA
+* Learn about the keywords in java ---
+* Liner Data Structure
+* Linked List..
+* Operation on the Linked Lst-
+* Add
+* Delete
+* Insert
+* Traverse
+
+### Type of Linked List 
+* Singly LinkedList
+* Doubly LinkedList
+* Circular LinkedList
+   
+### Basic problem of Scenario based using the concept of OOPS
+* Encapulation
+* Polymorphism
+* abstraction
+* inheritance
+
+
+#### 🛠 Best Practices Followed
+* Used variables for inputs & outputs  
+* Wrote reusable methods  
+* Followed naming conventions  
+* Maintained clean structure  
+* Separated input, logic & output
+
+**🔗 Code Link (Day 15 ):👉 _[Story Driven Scenario Based](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based)_**
+---
+
 
