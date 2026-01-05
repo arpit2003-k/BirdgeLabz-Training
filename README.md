@@ -481,4 +481,7 @@ BridgeLabz-Training/
 **🔗 Code Link (Day 14 ):👉 _[Inheritence and polymorphism](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/encapsulationandpolymorphism)_**
 👉 _[Story Driven Scenario Based](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based)_**
 
+---
+## 📅 Week 2: Data Structure and Algorithm in Java
+
 
