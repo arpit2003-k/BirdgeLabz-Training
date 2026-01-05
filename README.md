@@ -132,3 +132,27 @@ BridgeLabz-Training/
 * Separated input, logic & output
 
 **🔗 Code Link (Day 12 ):👉 _[GCR-OOP-ObjectModelling](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/objectmodelling)_**
+---
+### 🔹 Day 13 – Introduction to inheritance and polymorphism
+
+**Date: 31-Dec-2025**
+
+* Revised Core-concepts  
+* used proper approach to Solve the problems  
+* Followed functional programming structure
+#### 🧪 Java Programs Implemented intialization throught Object Diagram and Relation between the objects..
+* Learn about the keywords in java like ----extends and implement
+* parent Class 
+* child class
+* interface 
+* Association Aggregation and composition and there appliaction in java oops
+
+
+#### 🛠 Best Practices Followed
+* Used variables for inputs & outputs  
+* Wrote reusable methods  
+* Followed naming conventions  
+* Maintained clean structure  
+* Separated input, logic & output
+
+**🔗 Code Link (Day 13 ):👉 _[Inheritence and polymorphism](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/inheritance)_**
