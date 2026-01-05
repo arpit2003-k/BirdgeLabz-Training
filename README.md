@@ -244,5 +244,34 @@ BridgeLabz-Training/
 
 **🔗 Code Link (Day 16 ):👉 _[Story Driven Scenario Based](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based)_**
 ---
+### 🔹 Day 17 –  Practice the Scenario based problem of OOP Stort Driven Questions
+
+**Date: 05-Jan-2026**
+
+* Revised Core-concepts  
+* used proper approach to Solve the problems  
+* Followed functional programming structure
+
+#### 🧪 Java Programs Implemented intialization throught Encapsulation and polymorphism
+* Learn about the keywords in java like ----extends and implement
+* parent Class 
+* child class
+* interface 
+* Association Aggregation and composition and there appliaction in java oops
+* Encapulation
+* Polymorphism
+* Basic problem of Scenario based using the concept of OOPS
+
+
+#### 🛠 Best Practices Followed
+* Used variables for inputs & outputs  
+* Wrote reusable methods  
+* Followed naming conventions  
+* Maintained clean structure  
+* Separated input, logic & output
+
+**🔗 Code Link (Day 17 ):👉 _[Story Driven Scenario Based](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based)_**
+---
+
 
 
