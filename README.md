@@ -77,6 +77,14 @@ BridgeLabz-Training/
     │                   │   └── level1/
     │                   └── constructors/
     │                       └── level1/
+    │── java-dsa-practice/
+    │   └── gcr-codebase/
+    │       └── JavaDsaPractice/
+    │           └── src/
+    │               └── com/
+    │                   ├── linkedlist/
+    │                   │   └── level1/
+    │                   └── stackandqueue/
     ├── leet-code-codebase/
     ├── scenario-based/
     └── README.md
