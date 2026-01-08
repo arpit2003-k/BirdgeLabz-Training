@@ -692,5 +692,55 @@ BridgeLabz-Training/
 
 --------------------------------
 
+### 🔹 Day 19: Big-O Analysis & Advanced OOPS Scenario-Based Practice
 
+**Focus Area**
+- Understanding **algorithm runtime analysis**
+- Learning **Big-O Notation**
+- Applying **advanced OOPS concepts** through real-world scenario-based problems
+
+---
+
+## 📚 Topics Covered
+
+### 🔸 Algorithm Analysis
+- Algorithm runtime analysis
+- Big-O Notation
+- Time complexity comparison
+- Best, Average, and Worst-case analysis
+- Assignment Submission: **06 – Algorithm Runtime Analysis & Big-O Notation**
+
+---
+
+## 🧩 OOPS & Scenario-Based Practice
+
+**OOPS Concepts Practiced**
+- Encapsulation for protecting sensitive data
+- Inheritance for extending base functionality
+- Polymorphism using method overriding
+- Abstraction using interfaces
+- Constructor overloading
+- Proper use of access modifiers
+
+**Scenario-Based Problems Practiced**
+- Smart parking management system
+- Loan approval automation system
+- Digital bookstore management system
+- Applying operators for business logic calculations
+- Designing scalable, real-world backend systems
+
+---
+
+## 🛠 Best Practices Followed
+- Clean object-oriented design
+- Secure data handling using access modifiers
+- Modular and reusable code
+- Separation of responsibilities
+- Real-world problem modeling
+- Interview-oriented OOPS implementation
+
+**🔗 Code Link (Day 18 ):**👉 [Story Driven Scenario Based](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based)
+👉 [Runtime Analysis of Dsa in java](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaPractice/src/com/runtimeanalysis)
+
+--------------------------------
 
