@@ -1,12 +1,22 @@
 # BirdgeLabz-Training
-
+--------------------------------
 ## 📘 BridgeLabz Training – Java Programming
-
-Welcome to my **BridgeLabz Java Training Repository**.  
-This repository contains my daily learnings and practice programs completed as part of the BridgeLabz training program.
+  
 ---
+Welcome to my **BridgeLabz Training Repository**. 
+This repository contains my daily learnings and practice programs completed as part of the BridgeLabz training program.
+This repository documents my **daily learning, hands-on practice, and scenario-based problem solving** as part of my **Full Stack Java training**.
 
+### 🧭 Learning Approach
+- Daily self-learning of concepts
+- Solving GCR (Guided Coding Resource) problems
+- Scenario-based problem solving in Java
+- Daily GitHub commits
+- Maintaining a structured learning log in this README
+
+--------------------------------
 ## 📅 Week 1: Git, GitHub & Java Programming Fundamentals
+--------------------------------
 
 **Date: 16-Dec-2025**
 
@@ -79,9 +89,9 @@ BridgeLabz-Training/
 🔗 **Code Link (Day 1):**
 [Programming Pre-requisites](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/core-java-practice/gcr-codebase/Programming-Pre-requisites)
 
+--------------------------------
 
 ### 🔹 Day 2 – Programming Elements  
-**Date: 17-Dec-2025**
 
 * Solved Level-1 and Level-2 programming problems  
 * Practiced core programming elements in Java  
@@ -109,13 +119,12 @@ BridgeLabz-Training/
 * Committing changes  
 * Pushing code to GitHub  
 
-**🔗 Code Link (Day 2): 👉 [_programing elements_](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements)**
+**🔗 Code Link (Day 2):**
+👉 [Programing Elements](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements)
 
-
----
+--------------------------------
 
 ### 🔹 Day 3 – Java Control Flows  
-**Date: 18-Dec-2025**
 
 * Learned Java control flow concepts  
 * Worked with Boolean data type  
@@ -141,11 +150,10 @@ BridgeLabz-Training/
 * Committing changes  
 * Pushing code to GitHub  
 
-**🔗 Code Link (Day 3): 👉 [_control flow_](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow)_**
+**🔗 Code Link (Day 3):** 👉 [control-flow](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow)
 
----
+--------------------------------
 ### 🔹 Day 4 – Java Arrays  
-**Date: 19-Dec-2025**
 
 * Learned core concepts of Java arrays  
 * Created single-dimensional arrays  
@@ -172,12 +180,11 @@ BridgeLabz-Training/
 * Committing changes  
 * Pushing code to GitHub  
 
-**🔗 Code Link (Day 4): 👉 _[Arrays](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays)_**
+**🔗 Code Link (Day 4):** 👉 [Arrays in Java](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays)
 
----
+--------------------------------
 
 ### 🔹 Day 5 – Java Methods  
-**Date: 20-Dec-2025**
 
 * Learned user-defined methods  
 * Reused methods in programs  
@@ -205,12 +212,11 @@ BridgeLabz-Training/
 * Committing changes  
 * Pushing code to GitHub  
 
-**🔗 Code Link (Day 5): 👉 _[Methods](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/core-java-practice/gcr-codebase/Methods)_**
+**🔗 Code Link (Day 5):** 👉 [Methods in Java](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/core-java-practice/gcr-codebase/Methods)
 
----
+--------------------------------
 
 ### 🔹 Day 6 – Java Strings & Exceptions  
-**Date: 22-Dec-2025**
 
 * Learned core String concepts  
 * Created & manipulated Strings  
@@ -243,12 +249,11 @@ BridgeLabz-Training/
 * Maintained meaningful class & method names  
 * Handled exceptions wherever needed  
 
-**🔗 Code Link (Day 6): 👉 _[Strings](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/core-java-practice/gcr-codebase/Strings)_**
+**🔗 Code Link (Day 6):** 👉 [Strings In Java](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/core-java-practice/gcr-codebase/Strings)
 
----
+--------------------------------
 
 ### 🔹 Day 7 – Extra Strings, Built-in Functions & Date-Time  
-**Date: 23-Dec-2025**
 
 * Revised string handling  
 * Practiced common string functions  
@@ -280,22 +285,28 @@ BridgeLabz-Training/
 * Maintained clean structure  
 * Separated input, logic & output  
 
-**🔗 Code Link (Day 7 ): 👉 _[Extra-Questions-String-Handling](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/core-java-practice/gcr-codebase/Extra-Questions)_**
+**🔗 Code Link (Day 7 ):** 👉 [Extra-Questions-String-Handling](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/core-java-practice/gcr-codebase/Extra-Questions)
 
----
+--------------------------------
 ## 📅 Week 2: Java Programming Fundamentals Practice && Introduction to Java Oops concept and Eclipse IDE 
 
 ### 🔹 Day 8 – Scenario based Questions for the Core java Fundamentals && Introduction to classes and object 
-**Date: 26-Dec-2025**
+
 * Revised Core-concepts  
 * Practiced Control flows  
 * used proper approach to Solve the problems  
 * Followed functional programming structure
-
 * Learned Java oops fundamentals and basic syntax
 * Understood Java Oops programming paradigm structure
 * Worked with class and object
 * Practiced basic Questions
+
+#### 🧪 Java Programs Implemented
+* Employee class
+* Item class
+* Handbook class
+* Circle class
+* MobilePhone Class
 
 #### 🛠 Best Practices Followed
 * Used variables for inputs & outputs  
@@ -304,16 +315,7 @@ BridgeLabz-Training/
 * Maintained clean structure  
 * Separated input, logic & output
 
-#### 🧪 Java Programs Implemented
-
-* Employee class
-* Item class
-* Handbook class
-* Circle class
-* MobilePhone Class
-
 #### 🛠 Tools & Practices
-
 * Used Eclipse IDE for coding 
 * Followed proper naming conventions
 * Learned Git and GitHub
@@ -322,18 +324,19 @@ BridgeLabz-Training/
 * Committed changes using Git
 * Pushed local files to GitHub
 
-**🔗 Code Link (Day 8 ): 👉 _[Scenario-based-codeBase](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/core-java-practice/scenario-base-codebase)_**
-**🔗 Code Link (Day 8 ): 👉 _[class-and-objects](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/classandobject)_**
+**🔗 Code Link (Day 8):** 👉 [Scenario-based-codeBase](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/core-java-practice/scenario-base-codebase)
+**🔗 Code Link (Day 8):** 👉 [class-and-objects](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/classandobject)
 
----
+--------------------------------
 ### 🔹 Day 9 – Scenario based Questions for the Core java Fundamentals && The introduction to the constructor in java   
-**Date: 27-Dec-2025**
+
 * Revised Core-concepts  
 * Practiced Control flows
 * if Else, Loops  
 * used proper approach to Solve the problems  
 * Followed functional programming structure
 
+#### Java Program Implemented.
 * Solved the problem related classes object and the constructor to instialize the Feilds in the class
 * Problem like ----
 * GCR codebase problems like
@@ -348,11 +351,12 @@ BridgeLabz-Training/
 * Maintained clean structure  
 * Separated input, logic & output
 
-**🔗 Code Link (Day 9 ): 👉 _[Scenario-based-codeBase](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/core-java-practice/scenario-base-codebase)_**
-                        👉 _[OOPS-Constructor](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/constructor)_**
----
+**🔗 Code Link (Day 9):** 👉 [Scenario-based-codeBase](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/core-java-practice/scenario-base-codebase)
+**🔗 Code Link (Day 9):** 👉 [OOPS-Constructor](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/constructor)
+
+--------------------------------
 ### 🔹 Day 10 – Scenario based Questions for the Core java Fundamentals  
-**Date: 28-Dec-2025**
+
 * Revised Core-concepts  
 * Practiced Control flows
 * if Else, Loops  
@@ -366,22 +370,23 @@ BridgeLabz-Training/
 * Maintained clean structure  
 * Separated input, logic & output
 
-**🔗 Code Link (Day 10 ): 👉 _[Scenario-based-codeBase](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/core-java-practice/scenario-base-codebase)_**
----
+**🔗 Code Link (Day 10 ):** 👉 [Scenario-based-codeBase](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/core-java-practice/scenario-base-codebase)
+
+--------------------------------
 ### 🔹 Day 11 – Scenario based Questions for the Core java Fundamentals && the Introduction to the inbuilt fuctinality in java lots of keywords..   
-**Date: 29-Dec-2025**
+
 * Revised Core-concepts  
 * Practiced Control flows
 * if Else, Loops  
 * used proper approach to Solve the problems  
 * Followed functional programming structure
 
+#### Java Program Implementation.
 * Learn about the keywords in java like ----
 * this - keyword
 * super- keyword
 * static - keyword
 * and there appliaction in java oops
-
 * practice problem like
 * Emp Managemet
 * library management
@@ -395,18 +400,19 @@ BridgeLabz-Training/
 * Maintained clean structure  
 * Separated input, logic & output
 
-**🔗 Code Link (Day 11 ): 👉 _[Scenario-based-codeBase](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/core-java-practice/scenario-base-codebase)_**
-👉 _[GCR-OOP-inbuiltfuctions](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/inbuiltfuctions)_**
----
+**🔗 Code Link (Day 11 ):** 👉 [Scenario-based-codeBase](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/core-java-practice/scenario-base-codebase)
+👉 [GCR-OOP-inbuiltfuctions](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/inbuiltfuctions)
+
+--------------------------------
 ### 🔹 Day 12 – Scenario based Questions for the Core java Fundamentals  &&  The Introduction to the Class Diagram and the Reltion in class and Object Modelling in OOPS java
-**Date: 30-Dec-2025**
 
 * Revised Core-concepts  
 * Practiced Control flows
 * if Else, Loops  
 * used proper approach to Solve the problems  
 * Followed functional programming structure
-#### 🧪 Java Programs Implemented intialization throught Object Diagram and Relation between the objects..
+
+#### 🧪 Java Programs Implemented intialization throught Object Diagram and Relation between the objects.
 * Learn about the keywords in java like ----
 * Class diagram
 * object diagram
@@ -420,12 +426,12 @@ BridgeLabz-Training/
 * Maintained clean structure  
 * Separated input, logic & output
 
-**🔗 Code Link (Day 12 ): 👉 _[Scenario-based-codeBase](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/core-java-practice/scenario-base-codebase)_**
-                          👉 _[GCR-OOP-ObjectModelling](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/objectmodelling)_**
----
+**🔗 Code Link (Day 12 )**: 👉 [Scenario-based-codeBase](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/core-java-practice/scenario-base-codebase)
+                            👉 [GCR-OOP-ObjectModelling](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/objectmodelling)
+
+--------------------------------
 ### 🔹 Day 13 – Scenario based Questions for the Core java Fundamentals  && Introduction to inheritance and polymorphism
 
-**Date: 31-Dec-2025**
 * Revised Core-concepts  
 * Practiced Control flows
 * if Else, Loops
@@ -433,7 +439,7 @@ BridgeLabz-Training/
 * used proper approach to Solve the problems  
 * Followed functional programming structure
 
-#### 🧪 Java Programs Implemented intialization throught Object Diagram and Relation between the objects..
+#### 🧪 Java Programs Implemented intialization throught Object Diagram and Relation between the objects.
 * Learn about the keywords in java like ----extends and implement
 * parent Class 
 * child class
@@ -448,13 +454,11 @@ BridgeLabz-Training/
 * Maintained clean structure  
 * Separated input, logic & output
 
-**🔗 Code Link (Day 13 ): 👉 _[Scenario-based-codeBase](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/core-java-practice/scenario-base-codebase)_**
-                          👉 _[Inheritence and polymorphism](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/inheritance)_**
+**🔗 Code Link (Day 13 ):** 👉 [Scenario-based-codeBase](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/core-java-practice/scenario-base-codebase)
+                           👉 [Inheritence and polymorphism](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/inheritance)
 
----
-### 🔹 Day 14 – Introduction to Encapsulation and polymorphism and interfaces and abstract classes && Practice the Scenario based problem of OOP
-
-**Date: 01-Jan-2026**
+--------------------------------
+### 🔹 Day 14 – Introduction to Encapsulation and polymorphism and interfaces and abstract classes && Practice the Scenario based problem of OOP.
 
 * Revised Core-concepts  
 * used proper approach to Solve the problems  
@@ -478,15 +482,13 @@ BridgeLabz-Training/
 * Maintained clean structure  
 * Separated input, logic & output
 
-**🔗 Code Link (Day 14 ):👉 _[Encapulation polymorphism](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/encapsulationandpolymorphism)_**
-👉 _[Story Driven Scenario Based](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based)_**
+**🔗 Code Link (Day 14 ):** 👉 [Encapulation polymorphism](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/encapsulationandpolymorphism)
+                            👉 [Story Driven Scenario Based](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based)
 
----
-## 📅 Week 2: Data Structure and Algorithm in Java
+--------------------------------
+## 📅 Week 3: Data Structure and Algorithm in Java
 
-### 🔹 Day 15 –  Practice the Scenario based problem of OOP Stort Driven Questions
-
-**Date: 02-Jan-2026**
+### 🔹 Day 15 –  Practice the Scenario based problem of OOP Stort Driven Questions && Introduction to Linked List Data Structure 
 
 * Revised Core-concepts  
 * used proper approach to Solve the problems  
@@ -513,6 +515,47 @@ BridgeLabz-Training/
 * abstraction
 * inheritance
 
+#### 🛠 Best Practices Followed
+* Used variables for inputs & outputs  
+* Wrote reusable methods  
+* Followed naming conventions  
+* Maintained clean structure  
+* Separated input, logic & output
+
+**🔗 Code Link (Day 15 ):**👉 [Story Driven Scenario Based](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based)
+                           👉 [Linked List in java](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaPractice/src/com/linkedlist)
+
+--------------------------------
+### 🔹 Day 16 –  Practice the Scenario based problem of OOP Stort Driven Questions && Introduction to the Stack and Queue Data Structure 
+
+* Revised Core-concepts  
+* used proper approach to Solve the problems  
+* Followed functional programming structure
+
+### 🧪 Java Programs Implemented Stack and Queue Core concept DSA
+* Learn about the keywords in java ---
+* Liner Data Structure
+* Stack
+* Queue
+* Operation on the Stack and Queue-
+* Push
+* Pop
+* enqueue
+* dqueue
+* Traverse
+* Lifo principle
+* Fifo principle
+
+### Type of Queue 
+* Single ended
+* Double ended
+* Circular Queue  etc..
+   
+### Basic problem of Scenario based using the concept of OOPS
+* Encapulation
+* Polymorphism
+* abstraction
+* inheritance
 
 #### 🛠 Best Practices Followed
 * Used variables for inputs & outputs  
@@ -521,7 +564,133 @@ BridgeLabz-Training/
 * Maintained clean structure  
 * Separated input, logic & output
 
-**🔗 Code Link (Day 15 ):👉 _[Story Driven Scenario Based](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based)_**
+**🔗 Code Link (Day 16 ):**👉 [Story Driven Scenario Based](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based)
+👉 [Stack and Queue in java](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaPractice/src/com/stackandqueue)
+
+
+
+--------------------------------
+
+
+
+### 🔹 Day 17: Sorting Algorithms, HashMap Practice & OOPS Scenario-Based Problems
+
+**Focus Area**
+- Understanding and implementing **sorting algorithms**
+- Practicing **HashMap** for efficient data storage and retrieval
+- Applying **OOPS concepts** through scenario-based problem solving
+
 ---
+
+## 📚 Topics Covered
+
+### 🔸 Sorting Algorithms
+- Bubble Sort
+- Selection Sort
+- Insertion Sort
+- Time & Space Complexity basics
+- Comparison-based sorting logic
+
+---
+
+### 🔸 HashMap Practice
+- Key–Value pair storage
+- Hashing mechanism
+- Insertion, retrieval, update, and deletion
+- Iteration using `keySet()`, `values()`, and `entrySet()`
+- Real-world use cases of HashMap
+
+---
+
+## 🧩 OOPS Scenario-Based Problems
+
+**Concepts Applied**
+- Encapsulation
+- Inheritance
+- Polymorphism
+- Abstraction
+- Interface-based design
+
+**Practice Areas**
+- Object modeling using real-world entities
+- Data handling using collections
+- Applying sorting logic to objects
+- Combining HashMap with OOPS design
+
+---
+
+## 🛠 Best Practices Followed
+- Modular and reusable code
+- Proper use of access modifiers
+- Clean method design
+- Separation of business logic and data
+- Readable and maintainable structure
+
+**🔗 Code Link (Day 17 ):**👉 [Story Driven Scenario Based](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based)
+                           👉 [Sorting algorithms in java](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaPractice/src/com/sortingalgorithms)
+                           
+--------------------------------
+### 🔹 Day 18: Searching Algorithms, Java I/O Utilities & OOPS Scenario-Based Practice
+
+**Focus Area**
+- Practicing **searching algorithms**
+- Learning **Java I/O utilities and mutable strings**
+- Applying **OOPS concepts** through scenario-based problems
+
+---
+
+## 📚 Topics Covered
+
+### 🔸 Searching Algorithms
+- Linear Search
+- Binary Search
+- Time & Space Complexity
+- Assignment Submission: **04 & 05 – Linear & Binary Search**
+
+---
+
+### 🔸 Java Utilities & I/O
+- `StringBuilder`
+- `StringBuffer`
+- `BufferedReader`
+- `FileReader`
+- `InputStreamReader`
+- Efficient input handling and string manipulation
+
+---
+
+## 🧩 OOPS & Scenario-Based Practice
+
+**OOPS Concepts Practiced**
+- Encapsulation using access modifiers
+- Inheritance for real-world modeling
+- Polymorphism through method overriding
+- Abstraction using interfaces
+- Constructor overloading
+
+**Scenario-Based Problems Practiced**
+- Event management system
+- Learning platform (courses, quizzes, certification)
+- Fitness tracking application
+- Pet behavior modeling using polymorphism
+- Use of operators for calculations and logic
+
+---
+
+## 🛠 Best Practices Followed
+- Clean and modular code structure
+- Proper use of access modifiers
+- Separation of data and logic
+- Reusable classes and interfaces
+- Real-world problem-solving approach
+
+---
+
+**🔗 Code Link (Day 18 ):**👉 [Story Driven Scenario Based](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based)
+👉 [Searching Algorithm in java](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaPractice/src/com/searchingalgorithms)
+👉 [Java Utility in java](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaPractice/src/com/javaioutiliy)
+
+--------------------------------
+
 
 
