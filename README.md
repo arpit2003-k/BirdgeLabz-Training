@@ -68,15 +68,6 @@ BridgeLabz-Training/
     │   ├── java-methods/
     │   ├── java-strings/
     │   └── string-handling/
-    │── java-oops-practice/
-    │   └── gcr-codebase/
-    │       └── JavaOopsConcept/
-    │           └── src/
-    │               └── com/
-    │                   ├── classandobject/
-    │                   │   └── level1/
-    │                   └── constructors/
-    │                       └── level1/
     ├── leet-code-codebase/
     ├── scenario-based/
     └── README.md
