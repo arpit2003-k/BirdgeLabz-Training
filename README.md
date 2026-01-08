@@ -1,10 +1,22 @@
+# BirdgeLabz-Training
+--------------------------------
 ## 📘 BridgeLabz Training – Java Programming
-
-Welcome to my **BridgeLabz Java Training Repository**.  
-This repository contains my daily learnings and practice programs completed as part of the BridgeLabz training program.
+  
 ---
+Welcome to my **BridgeLabz Training Repository**. 
+This repository contains my daily learnings and practice programs completed as part of the BridgeLabz training program.
+This repository documents my **daily learning, hands-on practice, and scenario-based problem solving** as part of my **Full Stack Java training**.
 
+### 🧭 Learning Approach
+- Daily self-learning of concepts
+- Solving GCR (Guided Coding Resource) problems
+- Scenario-based problem solving in Java
+- Daily GitHub commits
+- Maintaining a structured learning log in this README
+
+--------------------------------
 ## 📅 Week 1: Git, GitHub & Java Programming Fundamentals
+--------------------------------
 
 **Date: 16-Dec-2025**
 
@@ -56,6 +68,15 @@ BridgeLabz-Training/
     │   ├── java-methods/
     │   ├── java-strings/
     │   └── string-handling/
+    │── java-oops-practice/
+    │   └── gcr-codebase/
+    │       └── JavaOopsConcept/
+    │           └── src/
+    │               └── com/
+    │                   ├── classandobject/
+    │                   │   └── level1/
+    │                   └── constructors/
+    │                       └── level1/
     ├── leet-code-codebase/
     ├── scenario-based/
     └── README.md
@@ -68,9 +89,9 @@ BridgeLabz-Training/
 🔗 **Code Link (Day 1):**
 [Programming Pre-requisites](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/core-java-practice/gcr-codebase/Programming-Pre-requisites)
 
+--------------------------------
 
 ### 🔹 Day 2 – Programming Elements  
-**Date: 17-Dec-2025**
 
 * Solved Level-1 and Level-2 programming problems  
 * Practiced core programming elements in Java  
@@ -98,13 +119,12 @@ BridgeLabz-Training/
 * Committing changes  
 * Pushing code to GitHub  
 
-**🔗 Code Link (Day 2): 👉 [_programing elements_](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements)**
+**🔗 Code Link (Day 2):**
+👉 [Programing Elements](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements)
 
-
----
+--------------------------------
 
 ### 🔹 Day 3 – Java Control Flows  
-**Date: 18-Dec-2025**
 
 * Learned Java control flow concepts  
 * Worked with Boolean data type  
@@ -130,11 +150,10 @@ BridgeLabz-Training/
 * Committing changes  
 * Pushing code to GitHub  
 
-**🔗 Code Link (Day 3): 👉 [_control flow_](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow)_**
+**🔗 Code Link (Day 3):** 👉 [control-flow](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow)
 
----
+--------------------------------
 ### 🔹 Day 4 – Java Arrays  
-**Date: 19-Dec-2025**
 
 * Learned core concepts of Java arrays  
 * Created single-dimensional arrays  
@@ -161,12 +180,11 @@ BridgeLabz-Training/
 * Committing changes  
 * Pushing code to GitHub  
 
-**🔗 Code Link (Day 4): 👉 _[Arrays](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays)_**
+**🔗 Code Link (Day 4):** 👉 [Arrays in Java](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays)
 
----
+--------------------------------
 
 ### 🔹 Day 5 – Java Methods  
-**Date: 20-Dec-2025**
 
 * Learned user-defined methods  
 * Reused methods in programs  
@@ -194,12 +212,11 @@ BridgeLabz-Training/
 * Committing changes  
 * Pushing code to GitHub  
 
-**🔗 Code Link (Day 5): 👉 _[Methods](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/core-java-practice/gcr-codebase/Methods)_**
+**🔗 Code Link (Day 5):** 👉 [Methods in Java](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/core-java-practice/gcr-codebase/Methods)
 
----
+--------------------------------
 
 ### 🔹 Day 6 – Java Strings & Exceptions  
-**Date: 22-Dec-2025**
 
 * Learned core String concepts  
 * Created & manipulated Strings  
@@ -232,12 +249,11 @@ BridgeLabz-Training/
 * Maintained meaningful class & method names  
 * Handled exceptions wherever needed  
 
-**🔗 Code Link (Day 6): 👉 _[Strings](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/core-java-practice/gcr-codebase/Strings)_**
+**🔗 Code Link (Day 6):** 👉 [Strings In Java](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/core-java-practice/gcr-codebase/Strings)
 
----
+--------------------------------
 
 ### 🔹 Day 7 – Extra Strings, Built-in Functions & Date-Time  
-**Date: 23-Dec-2025**
 
 * Revised string handling  
 * Practiced common string functions  
@@ -269,15 +285,78 @@ BridgeLabz-Training/
 * Maintained clean structure  
 * Separated input, logic & output  
 
-**🔗 Code Link (Day 7 ): 👉 _[Extra-Questions-String-Handling](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/core-java-practice/gcr-codebase/Extra-Questions)_**
+**🔗 Code Link (Day 7 ):** 👉 [Extra-Questions-String-Handling](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/core-java-practice/gcr-codebase/Extra-Questions)
 
----
-## 📅 Week 2: Java Programming Fundamentals Practice
+--------------------------------
+## 📅 Week 2: Java Programming Fundamentals Practice 
 
-### 🔹 Day 8 – Scenario based Questions for the Core java Fundamentals  
-**Date: 24-Dec-2025**
+### 🔹 Day 8 – Scenario based Questions for the Core java Fundamentals
+
+#### 🧪 Java Programs Implemented
 * Revised Core-concepts  
 * Practiced Control flows  
+* used proper approach to Solve the problems  
+* Followed functional programming structure
+* Learned Java oops fundamentals and basic syntax
+* Worked with class and object
+* Practiced basic Questions
+* Employee class
+* Item class
+* Handbook class
+* Circle class
+* MobilePhone Class
+
+#### 🛠 Best Practices Followed
+* Used variables for inputs & outputs  
+* Wrote reusable methods  
+* Followed naming conventions  
+* Maintained clean structure  
+* Separated input, logic & output
+
+#### 🛠 Tools & Practices
+* Used Eclipse IDE for coding 
+* Followed proper naming conventions
+* Learned Git and GitHub
+* Created a local Git repository
+* Added Java files to the repository
+* Committed changes using Git
+* Pushed local files to GitHub
+
+**🔗 Code Link (Day 8):** 👉 [Scenario-based-codeBase](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/core-java-practice/scenario-base-codebase)
+
+--------------------------------
+### 🔹 Day 9 – Scenario based Questions for the Core java Fundamentals 
+
+
+
+#### Java Program Implemented Scenario based Problems
+* Revised Core-concepts  
+* Practiced Control flows
+* if Else, Loops  
+* used proper approach to Solve the problems  
+* Followed functional programming structure
+* Solved the problem related 
+* Scenario based codebase problems like
+* BankAccount System
+* Student managment
+* Employee management
+
+#### 🛠 Best Practices Followed
+* Used variables for inputs & outputs  
+* Wrote reusable methods  
+* Followed naming conventions  
+* Maintained clean structure  
+* Separated input, logic & output
+
+**🔗 Code Link (Day 9):** 👉 [Scenario-based-codeBase](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/core-java-practice/scenario-base-codebase)
+
+
+--------------------------------
+### 🔹 Day 10 – Scenario based Questions for the Core java Fundamentals  
+
+* Revised Core-concepts  
+* Practiced Control flows
+* if Else, Loops  
 * used proper approach to Solve the problems  
 * Followed functional programming structure 
 
@@ -288,4 +367,76 @@ BridgeLabz-Training/
 * Maintained clean structure  
 * Separated input, logic & output
 
-**🔗 Code Link (Day 8 ): 👉 _[Scenario-based-codeBase](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/core-java-practice/scenario-base-codebase)_**
+**🔗 Code Link (Day 10 ):** 👉 [Scenario-based-codeBase](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/core-java-practice/scenario-base-codebase)
+
+--------------------------------
+### 🔹 Day 11 – Scenario based Questions for the Core java Fundamentals 
+* Revised Core-concepts  
+* Practiced Control flows
+* if Else, Loops  
+* used proper approach to Solve the problems  
+* Followed functional programming structure
+
+#### Java Program Implementation.
+* Learn about the keywords in java like ----
+* practice problem like
+* Emp Managemet
+* library management
+* student management
+* shopping cart application etc...
+
+#### 🛠 Best Practices Followed
+* Used variables for inputs & outputs  
+* Wrote reusable methods  
+* Followed naming conventions  
+* Maintained clean structure  
+* Separated input, logic & output
+
+**🔗 Code Link (Day 11 ):** 👉 [Scenario-based-codeBase](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/core-java-practice/scenario-base-codebase)
+
+
+--------------------------------
+### 🔹 Day 12 – Scenario based Questions for the Core java Fundamentals 
+
+
+
+#### 🧪 Java Programs Implemented Core Scenario based Question
+* Revised Core-concepts  
+* Practiced Control flows
+* if Else, Loops  
+* used proper approach to Solve the problems  
+* Followed functional programming structure
+
+
+#### 🛠 Best Practices Followed
+* Used variables for inputs & outputs  
+* Wrote reusable methods  
+* Followed naming conventions  
+* Maintained clean structure  
+* Separated input, logic & output
+
+**🔗 Code Link (Day 12 )**: 👉 [Scenario-based-codeBase](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/core-java-practice/scenario-base-codebase)
+
+--------------------------------
+### 🔹 Day 13 – Scenario based Questions for the Core java Fundamentals 
+
+#### 🧪 Java Programs Implemented 
+* Learn about the keywords in java like ----extends and implement
+* Revised Core-concepts  
+* Practiced Control flows
+* if Else, Loops
+* Arrays loops switch 
+* used proper approach to Solve the problems  
+* Followed functional programming structure
+
+
+#### 🛠 Best Practices Followed
+* Used variables for inputs & outputs  
+* Wrote reusable methods  
+* Followed naming conventions  
+* Maintained clean structure  
+* Separated input, logic & output
+
+**🔗 Code Link (Day 13 ):** 👉 [Scenario-based-codeBase](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/core-java-practice/scenario-base-codebase)
+
+--------------------------------
