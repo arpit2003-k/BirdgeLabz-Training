@@ -747,8 +747,48 @@ BridgeLabz-Training/
 - Real-world problem modeling
 - Interview-oriented OOPS implementation
 
-**🔗 Code Link (Day 18 ):**👉 [Story Driven Scenario Based](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based)
+**🔗 Code Link (Day 19 ):**👉 [Story Driven Scenario Based](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based)
 👉 [Runtime Analysis of Dsa in java](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaPractice/src/com/runtimeanalysis)
 
 --------------------------------
+### 🔹 Day 20: Advanced OOPS Practice with Real-World Scenarios
 
+**Focus Area**
+- Strengthening **Object-Oriented Programming concepts**
+- Designing **real-world application models**
+- Applying OOPS principles using scenario-based problems
+
+---
+
+## 🧩 OOPS Concepts Practiced
+
+- Encapsulation to protect internal data and business logic
+- Inheritance to extend base classes
+- Polymorphism using method overriding
+- Abstraction through interfaces
+- Constructor overloading for flexible object creation
+- Proper use of access modifiers for security and control
+
+---
+
+## 📚 Scenario-Based Practice
+
+- Pharmacy inventory and sales management system
+- Travel itinerary planning and booking system
+- Inventory tracking and stock management
+- Cost and budget calculation using operators
+- Designing scalable, modular backend systems
+
+---
+
+## 🛠 Best Practices Followed
+
+- Clean and maintainable code structure
+- Secure handling of sensitive data
+- Reusable classes and interfaces
+- Real-world domain modeling
+- Industry-aligned coding standards
+
+**🔗 Code Link (Day 19 ):**👉 [Story Driven Scenario Based](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based)
+
+--------------------------------
