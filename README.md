@@ -789,6 +789,49 @@ BridgeLabz-Training/
 - Real-world domain modeling
 - Industry-aligned coding standards
 
-**🔗 Code Link (Day 19 ):**👉 [Story Driven Scenario Based](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based)
+**🔗 Code Link (Day 20 ):**👉 [Story Driven Scenario Based](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based)
+
+--------------------------------
+### 🔹 Day 21: Advanced OOPS with Real-World Application Scenarios
+
+**Focus Area**
+- Applying **advanced Object-Oriented Programming concepts**
+- Designing **real-world application models**
+- Practicing **interfaces, inheritance, and polymorphism**
+
+---
+
+## 🧩 OOPS Concepts Practiced
+
+- Encapsulation to protect sensitive business logic and data
+- Inheritance for extending base classes
+- Polymorphism using method overriding
+- Abstraction through interfaces
+- Constructor overloading for flexible object creation
+- Proper use of access modifiers for controlled data access
+- Operator usage for calculations and logic
+
+---
+
+## 📚 Scenario-Based Practice
+
+- Digital art marketplace system
+- Restaurant ordering and billing system
+- Online learning and certification platform
+- Wallet balance, pricing, discounts, and grading logic
+- Secure handling of internal state and user data
+
+---
+
+## 🛠 Best Practices Followed
+
+- Clean and modular OOPS design
+- Reusable classes and interfaces
+- Secure data handling
+- Separation of concerns
+- Real-world domain modeling
+- Interview-oriented Java coding standards
+
+**🔗 Code Link (Day 21 ):**👉 [Story Driven Scenario Based](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based)
 
 --------------------------------
