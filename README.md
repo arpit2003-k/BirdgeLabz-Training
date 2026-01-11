@@ -835,3 +835,42 @@ BridgeLabz-Training/
 **🔗 Code Link (Day 21 ):**👉 [Story Driven Scenario Based](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based)
 
 --------------------------------
+
+### 🔹 Day 22: Data Structures with Real-World Scenario-Based Problems
+
+**Focus Area**
+- Applying **Data Structures** to solve real-world problems
+- Strengthening **Linked List, Stack, and HashMap concepts**
+- Designing efficient and optimized data-driven solutions
+
+---
+
+## 📚 Data Structures Practiced
+
+- Singly Linked List
+- Doubly Linked List
+- Circular Linked List
+- Stack operations
+- HashMap with collection integration
+- Function-based modular implementation
+
+---
+
+## 🧩 Scenario-Based Practice
+
+- Library catalog management using **HashMap + LinkedList**
+- Browser tab history management using **Doubly Linked List + Stack**
+- Emergency routing system using **Circular Linked List**
+- Dynamic insertion, deletion, and traversal operations
+- Memory-efficient data structure usage
+
+---
+
+## 🛠 Best Practices Followed
+
+- Efficient data structure selection
+- Clean pointer and node management
+- Modular and reusable functions
+- Optimized insert and delete operations
+- Real-world problem modeling
+- Industry-aligned DSA implementation
