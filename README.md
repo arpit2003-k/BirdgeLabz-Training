@@ -875,3 +875,53 @@ BridgeLabz-Training/
 - Real-world problem modeling
 - Industry-aligned DSA implementation
 - And best practice
+
+**🔗 Code Link (Day 22 ):**👉 [Story Driven Scenario Based](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-codebase)
+
+--------------------------------
+
+
+### 🔹 Day 23: Queue, Stack & Linked List – Real-World System Design
+
+**Focus Area**
+- Applying **Queue, Priority Queue, Stack, and Doubly Linked List**
+- Solving **real-world system-level problems**
+- Strengthening data structure selection and implementation logic
+
+---
+
+## 📚 Data Structures Practiced
+
+- Queue
+- Priority Queue
+- Stack
+- Doubly Linked List
+- HashMap
+- Function-based modular design
+
+---
+
+## 🧩 Scenario-Based Practice
+
+- Customer call handling system using **Queue + Priority Queue**
+- User data tracking using **HashMap**
+- Navigation system using **Doubly Linked List**
+- Undo/Redo functionality using **Stack**
+- Dynamic insertion, deletion, and traversal operations
+
+---
+
+## 🛠 Best Practices Followed
+
+- Efficient queue and stack management
+- Clean node traversal logic
+- Separation of concerns in data handling
+- Optimized data access using HashMap
+- Real-world problem modeling with DSA
+- Interview-oriented Java implementations
+
+**🔗 Code Link (Day 22 ):**👉 [Story Driven Scenario Based](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-codebase)
+
+--------------------------------
+
+
