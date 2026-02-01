@@ -876,7 +876,7 @@ BridgeLabz-Training/
 - Industry-aligned DSA implementation
 - And best practice
 
-**🔗 Code Link (Day 22 ):**👉 [Story Driven Scenario Based](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-codebase)
+**🔗 Code Link (Day 22 ):**👉 [Story Driven Scenario Based DSA](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-codebase)
 
 --------------------------------
 
@@ -920,7 +920,7 @@ BridgeLabz-Training/
 - Real-world problem modeling with DSA
 - Interview-oriented Java implementations
 
-**🔗 Code Link (Day 23 ):**👉 [Story Driven Scenario Based](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-codebase)
+**🔗 Code Link (Day 23 ):**👉 [Story Driven Scenario Based DSA](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-codebase)
 
 --------------------------------
 
@@ -995,9 +995,72 @@ BridgeLabz-Training/
 - Interview-oriented implementation approach
 - Scalable and maintainable design
 
-**🔗 Code Link (Day 24 ):**👉 [Story Driven Scenario Based](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-codebase)
-👉 [Story Driven Scenario Based](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based)
+**🔗 Code Link (Day 24 ):**👉 [Story Driven Scenario Based DSA](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-codebase)
+👉 [Story Driven Scenario Based oops](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based)
 
 --------------------------------
    
+### 🔹 Day 25: Sorting Algorithms & Graph Fundamentals (DSA)
+
+**Focus Area**
+- Understanding and applying **sorting algorithms** using real-world use cases
+- Selecting the right algorithm based on **data size and characteristics**
+- Introduction to **Graph data structures** and traversals
+
+---
+
+## 📚 Sorting Algorithms Practiced
+
+- Bubble Sort
+- Insertion Sort
+- Merge Sort
+- Quick Sort
+
+---
+
+## 🧩 Scenario-Based Sorting Practice
+
+- Sorting small datasets efficiently using **Bubble Sort**
+- Maintaining real-time sorted lists using **Insertion Sort**
+- Handling large-scale data using **Merge Sort**
+- Optimizing performance for large, random datasets using **Quick Sort**
+- Applying divide-and-conquer strategies
+- Comparing average-case vs worst-case performance
+
+---
+
+## ⚙️ Key Algorithmic Concepts
+
+- Time and space complexity analysis
+- Stability in sorting algorithms
+- In-place vs auxiliary memory sorting
+- Recursive partitioning
+- Efficient merging techniques
+
+---
+
+## 🌐 Graph Fundamentals Introduced
+
+- Graph terminology (vertices, edges)
+- Graph representations:
+  - Adjacency List
+  - Adjacency Matrix
+- Graph traversal techniques:
+  - Breadth-First Search (BFS)
+  - Depth-First Search (DFS)
+- Real-world applications of graphs
+
+---
+
+## 🛠 Best Practices Followed
+
+- Choosing algorithms based on problem constraints
+- Clean and modular algorithm implementation
+- Scalable and performance-aware coding
+- Interview-oriented DSA problem solving
+- Real-world data modeling with algorithms
+
+**🔗 Code Link (Day 24 ):**👉 [Story Driven Scenario Based DSA](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-codebase)
+
+--------------------------------
 
