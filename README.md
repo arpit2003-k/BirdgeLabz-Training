@@ -85,6 +85,17 @@ BridgeLabz-Training/
     │                   ├── linkedlist/
     │                   │   └── level1/
     │                   └── stackandqueue/
+    └── collections/
+    │   └── gcr-codebase/
+    │       └── JavaCollectionPractice/
+    │           └── src/
+    │               └── com/
+    │                   ├── genrics/
+    │                   │   └── level1/
+    │                   ├── Collections/
+    │                   │   └── List/
+    │                   │   └── Map/
+    │                   └── Exceptions/
     ├── leet-code-codebase/
     ├── scenario-based/
     └── README.md
@@ -1060,7 +1071,64 @@ BridgeLabz-Training/
 - Interview-oriented DSA problem solving
 - Real-world data modeling with algorithms
 
-**🔗 Code Link (Day 24 ):**👉 [Story Driven Scenario Based DSA](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-codebase)
+**🔗 Code Link (Day 25 ):**👉 [Story Driven Scenario Based DSA](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-codebase)
 
 --------------------------------
+## 📅 Week 4: Collection Framework, IO Streams, and Regex in java 
 
+### 🔹 Day 26: Java Collections and Java Genrics & Sorting Algorithms (Scenario-Based Practice)
+
+**Focus Area**
+- Understanding and applying **Java Collections Framework**
+- Solving real-world problems using **collection-based sorting**
+- Strengthening algorithm selection based on data characteristics
+
+---
+
+## 📚 Collections & Concepts Practiced
+
+- List-based collections
+- Genrics of java 1.5 version <T>
+- Bounded Type Parameter
+- UnBounded Type parameter
+- Dynamic data insertion
+- Collection traversal and manipulation
+- Sorting using comparison logic
+- Memory-efficient data handling
+
+---
+
+## 🧩 Scenario-Based Sorting Practice
+
+- Maintaining sorted data streams using **Insertion Sort**
+- Sorting small, manually maintained datasets using **Bubble Sort**
+- Handling large, unordered datasets using **Quick Sort**
+- Choosing algorithms based on dataset size and behavior
+- Real-world data modeling using collections
+
+---
+
+## ⚙️ Key Algorithmic Concepts
+
+- Online insertion into sorted collections
+- In-place sorting techniques
+- Average-case vs worst-case performance
+- Partition-based sorting
+- Space-efficient algorithm design
+
+---
+
+## 🛠 Best Practices Followed
+
+- Proper use of Java Collections
+- Clean and readable algorithm implementations
+- Optimized sorting logic
+- Interview-oriented DSA problem solving
+- Real-world scenario abstraction
+
+
+**🔗 Code Link (Day 26 ):**👉 [Story Driven Scenario Based DSA](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-codebase)
+👉[Collections](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionPractice/src/com/collections)
+👉[Genrics](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionPractice/src/com/generics)
+
+--------------------------------
