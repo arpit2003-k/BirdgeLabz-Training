@@ -920,8 +920,84 @@ BridgeLabz-Training/
 - Real-world problem modeling with DSA
 - Interview-oriented Java implementations
 
-**🔗 Code Link (Day 22 ):**👉 [Story Driven Scenario Based](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-codebase)
+**🔗 Code Link (Day 23 ):**👉 [Story Driven Scenario Based](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-codebase)
 
 --------------------------------
 
+### 🔹 Day 24: Advanced Java OOPS + DSA (Story-Driven Practice)
+
+**Focus Area**
+- Integrating **advanced OOPS concepts** with **real-world system design**
+- Applying **DSA concepts** alongside Java fundamentals
+- Practicing clean, modular, and extensible Java code
+
+---
+
+## 🧩 Java OOPS Concepts Practiced
+
+- Encapsulation for protecting internal state and logic
+- Inheritance for extending base system models
+- Abstraction using interfaces
+- Polymorphism through method overriding and dynamic behavior
+- Constructor overloading
+- Proper use of access modifiers
+- Operator-based calculations for business logic
+- Interface-driven design
+
+---
+
+## 📚 Scenario-Based OOPS Practice
+
+- Utility bill payment and reminder systems
+- Wildlife management system using inheritance and behavior-based interfaces
+- Real-world domain modeling with multiple entity types
+- Behavior-based filtering and reporting
+- Modular, extensible application structure
+
+---
+
+## 📘 Advanced Java Topics Introduced
+
+- Custom annotations
+- Java Reflection API
+- Metadata inspection and dynamic method handling
+- Annotation-driven design concepts
+
+---
+
+## 📊 Data Structures & Algorithms Practiced
+
+- Queue
+- Stack
+- HashMap
+- Singly Linked List
+- Function-based evaluation logic
+- Tree fundamentals (Binary Tree, BST, Traversals)
+
+---
+
+## 🧠 DSA Scenario-Based Practice
+
+- Supermarket billing and customer queue handling
+- Parcel delivery stage tracking
+- Online exam navigation and evaluation system
+- Efficient data lookup and state tracking
+- Sequential and hierarchical data modeling
+
+---
+
+## 🛠 Best Practices Followed
+
+- Clean and readable Java code
+- Separation of concerns
+- Real-world problem abstraction
+- Efficient data structure selection
+- Interview-oriented implementation approach
+- Scalable and maintainable design
+
+**🔗 Code Link (Day 24 ):**👉 [Story Driven Scenario Based](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-codebase)
+👉 [Story Driven Scenario Based](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based)
+
+--------------------------------
+   
 
