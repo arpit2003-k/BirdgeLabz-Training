@@ -1132,3 +1132,65 @@ BridgeLabz-Training/
 👉[Genrics](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionPractice/src/com/generics)
 
 --------------------------------
+
+### 🔹 Day 27: Java OOP & Sorting Algorithms (Scenario-Based Practice)
+
+**Focus Area**
+- Applying **Core OOP concepts** through real-world scenarios  
+- Strengthening **object modeling and design thinking**  
+- Reinforcing **sorting algorithm selection** based on use-cases  
+
+---
+
+## 📚 OOP Concepts Practiced
+
+- Classes and Objects  
+- Constructors and method design  
+- Encapsulation and data hiding  
+- Object relationships (has-a)  
+- Optional use of interfaces  
+- Clean and modular code structure  
+
+---
+
+## 🧩 Scenario-Based OOP Practice
+
+- Comparing geometric entities using encapsulated logic  
+- Designing real-world object systems using composition  
+- Managing collections of objects dynamically  
+- Validating constraints and business rules  
+- Storing and managing multiple objects using lists  
+
+---
+
+## 📊 Sorting Algorithm Scenarios
+
+- Sorting small datasets using **Bubble Sort**  
+- Maintaining nearly sorted data with **Insertion Sort**  
+- Merging pre-sorted data using **Merge Sort**  
+- Selecting algorithms based on data size and behavior  
+
+---
+
+## ⚙️ Key Algorithmic Concepts
+
+- In-place vs auxiliary memory sorting  
+- Incremental data insertion  
+- Stable vs unstable sorting  
+- Efficient merging of sorted lists  
+- Real-time and batch processing logic  
+
+---
+
+## 🛠 Best Practices Followed
+
+- Strong adherence to OOP principles  
+- Clear separation of responsibilities  
+- Reusable and maintainable code  
+- Scenario-driven DSA preparation  
+- Interview-focused problem modeling  
+
+**🔗 Code Link (Day 27 ):**👉 [Story Driven Scenario Based DSA](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-codebase)
+👉 [Story Driven Scenario Based oops](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based)
+
+--------------------------------
