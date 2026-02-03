@@ -1263,3 +1263,61 @@ BridgeLabz-Training/
 👉 [Story Driven Scenario Based oops](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based)
 
 --------------------------------
+
+### 🔹 Day 29: Java Exception Handling & Sorting Algorithms (Scenario-Based Practice)
+
+**Focus Area**
+- Understanding and implementing **Java Exception Handling**
+- Writing robust, fault-tolerant applications
+- Applying efficient **Sorting Algorithms** for real-world use cases
+- Strengthening error handling alongside algorithmic logic
+
+---
+
+## ⚠️ Exception Handling Concepts Practiced
+
+- Checked and unchecked exceptions
+- `try`, `catch`, `finally` blocks
+- Custom exception scenarios
+- Graceful failure handling
+- Defensive programming techniques
+
+---
+
+## 🧩 Scenario-Based Sorting Practice
+
+- **Insertion Sort** for real-time, nearly sorted data  
+  *(MovieTime – Theater Show Listings)*
+
+- **Merge Sort** for merging multiple pre-sorted datasets  
+  *(FoodFest – Sorting Stalls by Customer Footfall)*
+
+- **Quick Sort** for large, dynamic, unsorted datasets  
+  *(GamerZone – High Score Ranking System)*
+
+---
+
+## ⚙️ Key Algorithmic & Design Concepts
+
+- Real-time insertion into sorted lists
+- Stable sorting for equal-value datasets
+- High-performance sorting for large data
+- Combining exception handling with core logic
+- Ensuring application stability during runtime errors
+
+---
+
+## 🛠 Best Practices Followed
+
+- Proper exception handling for edge cases
+- Clean and readable Java code
+- Performance-aware algorithm selection
+- Real-world scenario abstraction
+- Interview-focused Java & DSA problem solving
+
+  
+**🔗 Code Link (Day 29 ):**👉 [Story Driven Scenario Based DSA](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-codebase)
+👉[Java Exception Handling](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionPractice/src/com/exceptions)
+
+--------------------------------
+
