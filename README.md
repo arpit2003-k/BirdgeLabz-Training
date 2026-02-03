@@ -1194,3 +1194,72 @@ BridgeLabz-Training/
 👉 [Story Driven Scenario Based oops](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based)
 
 --------------------------------
+
+### 🔹 Day 28: Java OOP, Collections, I/O Streams & Sorting Algorithms (Scenario-Based Practice)
+
+**Focus Area**
+- Designing real-world applications using **Core Java OOP**
+- Managing data with **Java Collections**
+- Working with **Java I/O Streams** for input and output operations
+- Applying appropriate **Sorting Algorithms** based on data size and use-case
+
+---
+
+## 📘 OOP, Collections & I/O Streams Practice
+
+- Classes, Objects, Constructors, Access Modifiers
+- Encapsulation for secure data handling
+- `ArrayList` for in-memory storage
+- Java I/O Streams for reading and writing data
+- Structured and maintainable application design
+
+---
+
+## 🧩 Scenario-Based Application
+
+### 📇 Address Book System
+- Add, edit, and delete contacts with duplicate validation
+- Search contacts by city or state
+- Display contacts sorted alphabetically
+- Store contact data using Collections
+- Optional persistence using Java I/O Streams
+- Real-world CRUD-based Java application
+
+---
+
+## 🔢 DSA & Sorting Scenarios
+
+- **Merge Sort** for large, pre-sorted datasets  
+  *(EduResults – Rank Sheet Generator)*
+
+- **Quick Sort** for large, unsorted datasets requiring fast processing  
+  *(FlashDealz – Product Sorting by Discount)*
+
+- **Bubble Sort** for small, frequently updated datasets  
+  *(FitnessTracker – Daily Step Ranking)*
+
+---
+
+## ⚙️ Key Concepts Strengthened
+
+- File handling using Java I/O Streams
+- Algorithm selection based on data behavior
+- Stable vs unstable sorting techniques
+- Efficient data storage and retrieval
+- Clean separation of logic using OOP principles
+
+---
+
+## 🛠 Best Practices Followed
+
+- Modular OOP-based design
+- Proper use of Collections and I/O Streams
+- Readable, maintainable Java code
+- Performance-aware sorting logic
+- Interview-oriented Java & DSA preparation
+
+**🔗 Code Link (Day 28 ):**👉 [Story Driven Scenario Based DSA](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-codebase)
+👉[Java I/O Stream](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionPractice/src/com/javastreams)
+👉 [Story Driven Scenario Based oops](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based)
+
+--------------------------------
