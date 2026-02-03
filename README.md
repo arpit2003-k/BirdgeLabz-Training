@@ -1320,4 +1320,66 @@ BridgeLabz-Training/
 👉[Java Exception Handling](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionPractice/src/com/exceptions)
 
 --------------------------------
+### 🔹 Day 30: Binary Search Trees, Regex & JUnit, and Sorting Algorithms
 
+**Focus Area**
+- Implementing **Binary Search Trees (BST)** for efficient data management
+- Strengthening **search, insertion, deletion, and traversal** operations
+- Introduction to **Regex and JUnit** for validation and testing
+- Applying sorting algorithms to real-time and time-sensitive data
+
+---
+
+## 🌳 Binary Search Tree (BST) Concepts Practiced
+
+- Insertion of records using unique keys
+- Deletion of nodes from BST
+- Searching data efficiently
+- In-order traversal for sorted output
+- Applying BSTs to real-world data like records, inventory, and media libraries
+
+---
+
+## 🧪 Regex & JUnit Exposure
+
+- Pattern matching and validation using **Regular Expressions**
+- Input validation scenarios
+- Writing unit tests using **JUnit**
+- Ensuring correctness of core logic
+- Test-driven approach to Java development
+
+---
+
+## 🧩 Scenario-Based Sorting Practice
+
+- **Insertion Sort** for real-time, nearly sorted data  
+  *(Deadline-based order management)*
+
+- **Merge Sort** for merging multiple sorted datasets  
+  *(Time-sensitive inventory handling)*
+
+---
+
+## ⚙️ Key Algorithmic & Design Concepts
+
+- Tree-based data organization
+- Efficient searching using hierarchical structures
+- Stable sorting for critical datasets
+- Real-time data updates
+- Validation and testing of business logic
+
+---
+
+## 🛠 Best Practices Followed
+
+- Clean BST implementation
+- Modular and testable Java code
+- Proper use of sorting based on data behavior
+- Validation using Regex
+- Reliability ensured through unit testing
+
+**🔗 Code Link (Day 30 ):**👉 [Story Driven Scenario Based DSA](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-codebase)
+👉[Java Regex](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionPractice/src/com/exceptions)
+👉[Java JUnit Testing](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionPractice/src/com/junit)
+
+--------------------------------
