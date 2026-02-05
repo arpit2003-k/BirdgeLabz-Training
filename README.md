@@ -1506,6 +1506,71 @@ BridgeLabz-Training/
 
 **🔗 Code Link (Day 32 ):**👉 [Story Driven Scenario Based DSA](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-codebase)
 👉[CSV data handling in java -> ](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/java-IOProgramming-practice/java-IOProgramming-practice/gcr-codebase/JavaIOProgrammingPractice/src/com/csvdatahandling)
+👉[Collections Modules Scenario Based -> ](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenariobased-code)
+
+--------------------------------
+
+### 🔹 Day 33: JSON, & Scenarion Based Regex & Collection-Based Data Processing Problems
+
+**Focus Area**
+- Real-world file-driven applications using **Java I/O Streams**
+- Data validation and extraction using **Regular Expressions**
+- Efficient data organization with **Collections & Generics**
+
+---
+
+## 📚 Core Concepts Practiced
+
+- BufferedReader, FileReader, FileInputStream
+- CSV and TXT file parsing
+- JSON in java
+- Regex-based pattern matching and validation
+- Custom exception handling
+- Date handling and validation
+- Java Generics for extensible designs
+
+---
+
+## 🧩 Scenario-Based Practice
+
+- Hospital inventory tracking with CSV processing
+- Chat log analysis and user-wise message grouping
+- Personal media library management from file systems
+- Bulk exam result upload and ranking
+- E-commerce deal validation and filtering
+
+---
+
+## 🧠 Collections & Data Structures Used In Scenario Based problems 
+
+- `List` for ordered data storage
+- `Set` for duplicate elimination
+- `Map` and `TreeMap` for categorization and sorting
+- `PriorityQueue` for ranking and top-N calculations
+- `Comparator` for custom sorting logic
+
+---
+
+## ⚙️ Key Technical Learnings
+
+- Parsing structured and semi-structured file data
+- Regex for dates, percentages, IDs, and text patterns
+- File-based data aggregation and filtering
+- Generic interfaces for reusable filtering logic
+- Robust error handling for invalid or corrupted inputs
+
+---
+
+## 🛠 Best Practices Followed
+
+- Clean separation of I/O and business logic
+- Defensive programming with validations
+- Scalable and reusable generic designs
+- Real-world backend problem modeling
+- Interview-focused Java I/O and Collections usage
+
+**🔗 Code Link (Day 33 ):**👉 [Story Driven Scenario Based DSA](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-codebase)
+👉[Collections Modules Scenario Based -> ](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenariobased-code)
 👉[Java JSON -> ](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/java-IOProgramming-practice/java-IOProgramming-practice/gcr-codebase/JavaIOProgrammingPractice/src/com/json)
 
 --------------------------------
