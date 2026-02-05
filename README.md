@@ -1383,3 +1383,64 @@ BridgeLabz-Training/
 👉[Java JUnit Testing](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionPractice/src/com/junit)
 
 --------------------------------
+### 🔹 Day 31:  Annotations & Reflection in java && Scenario based problems of Tree
+
+**Focus Area**
+- Understanding **self-balancing trees (AVL Trees)**
+- Handling real-time data with guaranteed performance
+- Exploring **Java Annotations and Reflection**
+- Building scalable and dynamically inspectable applications
+
+---
+
+## 🌲 AVL Tree Concepts Practiced
+
+- Self-balancing Binary Search Trees
+- Automatic height balancing using rotations
+- Efficient insertion, deletion, and lookup
+- Maintaining sorted data with guaranteed **O(log n)** complexity
+
+---
+
+## 🧩 Real-World AVL Tree Scenarios
+
+- Real-time leaderboard management
+- Time-based event scheduling
+- Balanced patient queue handling
+- Dynamic insertion and deletion of records
+- Sorted data retrieval with fast performance
+
+---
+
+## 🧠 Annotations & Reflection
+
+- Understanding built-in and custom annotations
+- Using reflection to inspect classes, methods, and fields at runtime
+- Dynamic behavior control using metadata
+- Annotation-driven design patterns
+
+---
+
+## ⚙️ Key Technical Learnings
+
+- Difference between BST and AVL Tree
+- Tree rotations (LL, RR, LR, RL)
+- Runtime class inspection
+- Metadata-based logic execution
+- Performance optimization using balanced trees
+
+---
+
+## 🛠 Best Practices Followed
+
+- Clean and balanced tree implementation
+- Modular, extensible Java code
+- Separation of logic and metadata
+- Real-world use-case modeling
+- Interview-focused DSA and Java design
+
+**🔗 Code Link (Day 31 ):**👉 [Story Driven Scenario Based DSA](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-codebase)
+👉[Reflection in java -> ](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionPractice/src/com/reflection)
+👉[Java Annotations -> ](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionPractice/src/com/annotations)
+
+--------------------------------
