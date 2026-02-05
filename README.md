@@ -85,7 +85,7 @@ BridgeLabz-Training/
     │                   ├── linkedlist/
     │                   │   └── level1/
     │                   └── stackandqueue/
-    └── collections/
+    └── java-collections-practice/
     │   └── gcr-codebase/
     │       └── JavaCollectionPractice/
     │           └── src/
@@ -96,6 +96,23 @@ BridgeLabz-Training/
     │                   │   └── List/
     │                   │   └── Map/
     │                   └── Exceptions/
+    │── java-IOProgramming-practice/
+    │   └── gcr-codebase/
+    │       └── JavaIOProgrammingPractice/
+    │           └── src/
+    │               └── com/
+    │                   ├── CSV-DataHandling/ 
+    │                   └── JSON/
+    └── java-eight-practice/
+    │   └── gcr-codebase/
+    │       └── JavaEightPractice/
+    │           └── src/
+    │               └── com/
+    │                   ├── lambdaexpression/
+    │                   ├── functionalInterface/
+    │                   │   └── Consumer/
+    │                   │   └── Suppiler/
+    │                   └── streamAPI/
     ├── leet-code-codebase/
     ├── scenario-based/
     └── README.md
