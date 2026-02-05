@@ -1444,3 +1444,68 @@ BridgeLabz-Training/
 👉[Java Annotations -> ](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionPractice/src/com/annotations)
 
 --------------------------------
+## 📅 Week 5:  IO Programming in java and JSON in java 
+
+### 🔹 Day 32: CSV Data Handling, I/O Streams && Scenario based problem on Collections and Regex
+
+**Focus Area**
+- Processing real-world data using **Java I/O Streams**
+- Extracting structured information using **Regular Expressions**
+- Applying **Collections & Generics** for scalable data handling
+- Working with file-based data formats like **CSV and TXT**
+
+---
+
+### 📂 Core Java Concepts Practiced
+
+- File handling with streams (BufferedReader, Object Streams)
+- Reading and parsing CSV / text files
+- Serialization and deserialization
+- Exception handling for invalid or corrupt data
+- Regex-based pattern matching and validation
+
+---
+
+### 🧩 Scenario-Based Practice
+
+- Resume filtering and keyword extraction from files
+- Travel log storage and data analysis using serialized objects
+- Survey feedback analysis with rating extraction
+- Java source file scanning and categorization
+- Digital exam answer validation using CSV parsing
+
+---
+
+### 🧠 Collections, Generics & Data Processing
+
+- Using List, Set, Map, and PriorityQueue
+- Sorting and grouping data efficiently
+- Generic design for flexible data models
+- Keyword-based ranking and frequency analysis
+- Stream-based filtering and summarization
+
+---
+
+### ⚙️ Key Technical Learnings
+
+- Regex for emails, phone numbers, ratings, and formats
+- Folder-level file scanning
+- Data validation and error handling
+- File-based indexing and searching
+- Clean separation of data processing logic
+
+---
+
+### 🛠 Best Practices Followed
+
+- Robust file I/O handling
+- Reusable and generic code design
+- Graceful exception management
+- Real-world data modeling
+- Interview-oriented Java backend problem solving
+
+**🔗 Code Link (Day 32 ):**👉 [Story Driven Scenario Based DSA](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-codebase)
+👉[CSV data handling in java -> ](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/java-IOProgramming-practice/java-IOProgramming-practice/gcr-codebase/JavaIOProgrammingPractice/src/com/csvdatahandling)
+👉[Java JSON -> ](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/java-IOProgramming-practice/java-IOProgramming-practice/gcr-codebase/JavaIOProgrammingPractice/src/com/json)
+
+--------------------------------
