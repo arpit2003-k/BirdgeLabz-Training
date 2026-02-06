@@ -1591,3 +1591,70 @@ BridgeLabz-Training/
 👉[Java JSON -> ](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/java-IOProgramming-practice/java-IOProgramming-practice/gcr-codebase/JavaIOProgrammingPractice/src/com/json)
 
 --------------------------------
+## 📅 Week 6:  Java 8 features and Stream API
+
+### 🔹 Day 34: Java 8 freatures Functional Programming, &&  Annotations & Data Serialization Scenario Based Questions
+
+**Focus Area**
+- Writing clean and expressive code using **Lambda Expressions**
+- Applying **Functional Interfaces** for behavior-driven design
+- Building real-world tools using **Annotations, Reflection, CSV & JSON handling**
+
+---
+
+### 📚 Core Java Concepts Practiced
+
+- Lambda Expressions
+- Functional Interfaces
+- Custom Annotations
+- Java Reflection API
+- CSV file processing
+- JSON serialization and deserialization
+- Exception handling in data pipelines
+
+---
+
+### 🧩 Scenario-Based Practice
+
+- API metadata scanning and validation using annotations
+- Automated documentation generation via reflection
+- Student marksheet processing from CSV to JSON
+- Audit trail generation for enterprise systems
+- Structured event logging with metadata and timestamps
+
+---
+
+### 🧠 Functional & Advanced Concepts
+
+- Behavior abstraction using functional interfaces
+- Cleaner logic with lambda-based implementations
+- Runtime class and method inspection
+- Annotation-driven processing
+- Data transformation between formats (CSV → JSON)
+
+---
+
+### ⚙️ Key Technical Learnings
+
+- Reducing boilerplate code using lambdas
+- Designing extensible systems using annotations
+- Reflection-based method discovery
+- Robust CSV validation and parsing
+- Generating machine-readable JSON outputs
+
+---
+
+### 🛠 Best Practices Followed
+
+- Functional and modular code design
+- Clear separation of concerns
+- Scalable and reusable utilities
+- Industry-style backend problem modeling
+- Interview-focused Java advanced feature usage
+
+**🔗 Code Link (Day 34 ):**
+👉[Reflection and Annotation Modules Scenario Based -> ](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenariobased-code)
+👉[Java lambda expression](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/java-eight-practice/java-eight-practice/gcr-codebase/JavaEightPractice/src/com/lambdaexpression)
+👉[Java Functional Interface](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/java-eight-practice/java-eight-practice/gcr-codebase/JavaEightPractice/src/com/functionalinterface)
+
+--------------------------------
