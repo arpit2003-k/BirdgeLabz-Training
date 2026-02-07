@@ -1688,3 +1688,38 @@ BridgeLabz-Training/
 👉[Java Functional Interface](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/java-eight-practice/java-eight-practice/gcr-codebase/JavaEightPractice/src/com/functionalinterface)
 
 --------------------------------
+### 🔹 Day 36: Stream API & Collectors (Java 8)
+
+**Focus Area**
+- Processing collections using Java Stream API
+- Data filtering, mapping, grouping, and aggregation
+
+**Core Stream Operations**
+- filter(), map(), sorted(), limit(), skip()
+- min(), max(), count(), findFirst()
+- anyMatch(), allMatch(), noneMatch()
+- flatMap()
+
+**Collectors Used**
+- groupingBy()
+- counting()
+- averagingInt()
+- mapping()
+- partitioningBy()
+- toList(), toMap()
+
+**Scenario-Based Practice**
+- Student data analysis (rank, age, gender, department)
+- Employee analytics (salary, experience, department stats)
+- Ranking, grouping, partitioning, and aggregation problems
+
+**Key Takeaways**
+- Functional data processing
+- Writing efficient, declarative collection logic
+- Industry-level data handling patterns
+
+**🔗 Code Link (Day 36 ):**
+👉[Java StreamAPI](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/java-eight-practice/java-eight-practice/gcr-codebase/JavaEightPractice/src/com/streamapi)
+👉[Java Collectors in Java 8](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/java-eight-practice/java-eight-practice/gcr-codebase/JavaEightPractice/src/com/collectors)
+
+--------------------------------
