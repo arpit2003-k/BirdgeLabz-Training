@@ -1723,3 +1723,31 @@ BridgeLabz-Training/
 👉[Java Collectors in Java 8](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/java-eight-practice/java-eight-practice/gcr-codebase/JavaEightPractice/src/com/collectors)
 
 --------------------------------
+### 🔹 Day 37: Optional Class & Null-Safety (Java 8)
+
+**Focus Area**
+- Handling null values safely using `Optional`
+- Avoiding `NullPointerException` in real-time systems
+
+**Concepts Practiced**
+- Optional.of(), ofNullable(), empty()
+- isPresent(), ifPresent()
+- orElse(), orElseGet(), orElseThrow()
+
+**Scenario-Based Practice**
+- Student management (email, phone, address, nickname)
+- Employee system (manager, bonus, insurance details)
+- Banking application (nominee, loan, balance handling)
+- E-commerce system (discounts, product description)
+- System utilities (config values, API responses)
+
+**Key Takeaways**
+- Cleaner null handling without explicit null checks
+- Writing safer and more readable Java 8 code
+
+**🔗 Code Link (Day 36 ):**
+👉[Java StreamAPI](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/java-eight-practice/java-eight-practice/gcr-codebase/JavaEightPractice/src/com/streamapi)
+👉[Java 8 Workshop](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/java-eight-practice/java-eight-practice/gcr-codebase/JavaEightPractice/src/com/javaeightworkshop)
+👉[Java 8 ScenarioBased](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/java-eight-practice/java-eight-practice/scenariobased-code)
+
+--------------------------------
