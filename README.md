@@ -1658,3 +1658,33 @@ BridgeLabz-Training/
 👉[Java Functional Interface](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/java-eight-practice/java-eight-practice/gcr-codebase/JavaEightPractice/src/com/functionalinterface)
 
 --------------------------------
+### 🔹 Day 35: Lambda Expressions & Functional Interfaces
+
+**Focus Area**
+- Writing concise logic using Lambda Expressions
+- Applying built-in and custom Functional Interfaces
+
+**Functional Interfaces Covered**
+- Predicate – condition checking
+- Function – data transformation
+- Consumer – performing actions
+- Supplier – providing data
+- Comparator – custom sorting
+- Runnable – task execution
+- Custom Functional Interfaces
+
+**Scenario-Based Practice**
+- Student, employee, banking, and e-commerce use cases
+- Salary checks, bonus calculation, discount logic
+- Sorting, filtering, validation, and background tasks
+
+**Key Takeaways**
+- Reduced boilerplate code
+- Improved readability and functional-style programming
+- Strong foundation for Streams API
+
+**🔗 Code Link (Day 35 ):**
+👉[Java lambda expression](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/java-eight-practice/java-eight-practice/gcr-codebase/JavaEightPractice/src/com/lambdaexpression)
+👉[Java Functional Interface](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/java-eight-practice/java-eight-practice/gcr-codebase/JavaEightPractice/src/com/functionalinterface)
+
+--------------------------------
