@@ -113,6 +113,13 @@ BridgeLabz-Training/
     │                   │   └── Consumer/
     │                   │   └── Suppiler/
     │                   └── streamAPI/
+    └── java-DesignPattern-practice/
+    │   └── gcr-codebase/
+    │       └── JavaDesignPatternPractice/
+    │           └── src/
+    │               └── com/
+    │                   ├── DesignPattern/
+    │                   ├── MultiThreading/
     ├── leet-code-codebase/
     ├── scenario-based/
     └── README.md
@@ -1784,5 +1791,43 @@ BridgeLabz-Training/
 
 **🔗 Code Link (Day 38 ):**
 👉[Java 8 ScenarioBased](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/java-eight-practice/java-eight-practice/scenariobased-code)
+
+--------------------------------
+### 🔹 Day 39: Java 8 Logical Problems + Design Patterns
+
+**Focus Areas**
+- Stream API logical problem-solving
+- Introduction to Design Patterns
+
+**Java 8 Logical Problems Practiced**
+- Character & word frequency problems
+- Non-repeating and duplicate element detection
+- String filtering and transformation
+- Sorting, grouping, partitioning, and aggregation
+- Advanced stream operations (top N, flattening)
+
+**Design Patterns Covered**
+- Creational Patterns
+  - Singleton
+  - Factory
+- Structural Patterns
+  - Adapter
+  - Decorator
+- Behavioral Patterns
+  - Strategy
+  - Observer
+
+**Applications**
+- Pattern-based problem structuring
+- Writing reusable and loosely coupled code
+- Understanding real-world usage scenarios
+
+**Key Takeaways**
+- Interview-ready Java 8 problem-solving skills
+- Strong foundation in design patterns
+- Ability to design scalable, maintainable applications
+**🔗 Code Link (Day 39 ):**
+👉[Java 8 ScenarioBased](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/java-eight-practice/java-eight-practice/scenariobased-code)
+👉[Java Design Pattern ](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/JavaDesignPatternPractice/src/com/designpattern)
 
 --------------------------------
