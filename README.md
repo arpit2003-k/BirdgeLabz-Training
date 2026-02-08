@@ -1745,9 +1745,44 @@ BridgeLabz-Training/
 - Cleaner null handling without explicit null checks
 - Writing safer and more readable Java 8 code
 
-**🔗 Code Link (Day 36 ):**
+**🔗 Code Link (Day 37 ):**
 👉[Java StreamAPI](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/java-eight-practice/java-eight-practice/gcr-codebase/JavaEightPractice/src/com/streamapi)
 👉[Java 8 Workshop](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/java-eight-practice/java-eight-practice/gcr-codebase/JavaEightPractice/src/com/javaeightworkshop)
+👉[Java 8 ScenarioBased](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/java-eight-practice/java-eight-practice/scenariobased-code)
+
+--------------------------------
+## 📅 Week 7:  Java Design Principle and Pattern and Solution && Multithreading...
+
+### 🔹 Day 38: Java 8 Collection Conversions + Design Principles
+
+**Focus Areas**
+- Java 8 Stream-based data structure conversions
+- Core Object-Oriented Design Principles
+
+**Java 8 Conversions Practiced**
+- List → Map (custom keys, duplicate handling, grouping)
+- Map → List (keys, values, entries, sorting & filtering)
+- List ↔ Set (duplicates removal, order preservation)
+- Array ↔ Collection conversions
+- Object-based conversions (Employee, Order, Department)
+
+**Design Principles Covered**
+- SOLID Principles
+  - Single Responsibility Principle (SRP)
+  - Open/Closed Principle (OCP)
+  - Liskov Substitution Principle (LSP)
+  - Interface Segregation Principle (ISP)
+  - Dependency Inversion Principle (DIP)
+- DRY (Don’t Repeat Yourself)
+- KISS (Keep It Simple, Stupid)
+- Loose Coupling & High Cohesion
+
+**Key Takeaways**
+- Writing clean, maintainable, and extensible code
+- Applying design principles while using Streams
+- Improved code readability and scalability
+
+**🔗 Code Link (Day 38 ):**
 👉[Java 8 ScenarioBased](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/java-eight-practice/java-eight-practice/scenariobased-code)
 
 --------------------------------
