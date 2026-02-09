@@ -1829,7 +1829,7 @@ BridgeLabz-Training/
 
 **🔗 Code Link (Day 39 ):**
 👉[Java 8 ScenarioBased](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/java-eight-practice/java-eight-practice/scenariobased-code)
-👉[Java Design Pattern ](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/java-design-patterns-practice/java-design-patterns-practice/JavaDesignPatternPractice/src/com/designpattern)
+👉[Java Design Pattern ](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/java-design-patterns-practice/java-design-patterns-practice/gcr-codebase/JavaDesignPatternPractice/src/com/designpatterns)
 
 --------------------------------
 ### 🔹 Day 40: Java Multithreading
