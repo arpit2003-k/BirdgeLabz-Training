@@ -1889,6 +1889,6 @@ BridgeLabz-Training/
 
 **🔗 Code Link (Day 40 ):**
 
-👉[Java Multithreading](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/java-design-patterns-practice/java-design-patterns-practice/JavaDesignPatternPractice/src/com/multithreading)
+👉[Java Multithreading](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/java-design-patterns-practice/java-design-patterns-practice/gcr-codebase/JavaDesignPatternPractice/src/com/multithreading)
 
 --------------------------------
