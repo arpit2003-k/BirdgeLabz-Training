@@ -1826,8 +1826,69 @@ BridgeLabz-Training/
 - Interview-ready Java 8 problem-solving skills
 - Strong foundation in design patterns
 - Ability to design scalable, maintainable applications
+
 **🔗 Code Link (Day 39 ):**
 👉[Java 8 ScenarioBased](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/java-eight-practice/java-eight-practice/scenariobased-code)
 👉[Java Design Pattern ](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/JavaDesignPatternPractice/src/com/designpattern)
+
+--------------------------------
+### 🔹 Day 40: Java Multithreading
+
+**Focus Areas**
+- Core concepts of Multithreading in Java
+- Concurrent execution and thread lifecycle management
+
+**Assignments**
+- 03 – Java Multithreading (Submission)
+
+**Topics Covered**
+- Introduction to Multithreading
+- Thread creation approaches
+  - Extending `Thread` class
+  - Implementing `Runnable` interface
+- Thread lifecycle
+  - New
+  - Runnable
+  - Running
+  - Waiting / Sleeping
+  - Terminated
+- Thread methods
+  - `start()`
+  - `run()`
+  - `sleep()`
+  - `join()`
+  - `yield()`
+- Thread priorities
+
+**Synchronization Concepts**
+- Need for synchronization
+- Synchronized methods
+- Synchronized blocks
+- Preventing race conditions
+- Thread-safe execution
+
+**Concurrency Utilities (Introduction)**
+- Executor framework (basic overview)
+- Thread pools (fixed, single-thread)
+- Difference between single-threaded and multi-threaded execution
+
+**Exception Handling in Multithreading**
+- Handling `InterruptedException`
+- Safe thread interruption practices
+
+**Real-World Use Cases**
+- Background task execution
+- Parallel data processing
+- Resource sharing scenarios
+- Performance optimization using threads
+
+**Key Takeaways**
+- Understanding parallel execution in Java
+- Writing safe and efficient multithreaded code
+- Avoiding common multithreading issues like deadlock and race conditions
+
+**🔗 Code Link (Day 40 ):**
+
+👉[Java Multithreading](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/JavaDesignPatternPractice/src/com/multithreading)
 
 --------------------------------
