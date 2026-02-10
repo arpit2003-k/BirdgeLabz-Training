@@ -1892,3 +1892,26 @@ BridgeLabz-Training/
 👉[Java Multithreading](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/java-design-patterns-practice/java-design-patterns-practice/gcr-codebase/JavaDesignPatternPractice/src/com/multithreading)
 
 --------------------------------
+### 🔹 Day 41: OOPS-Based Problem Solving
+
+**Focus Area**
+- Applying Object-Oriented Programming concepts to real-world problem statements
+
+**Activity**
+- Analysis and implementation of an OOPS-based problem:
+  - *FutureLogistics – OOPS Based Problem*
+
+**Key OOPS Concepts Practiced**
+- Class and Object design
+- Encapsulation and data hiding
+- Inheritance and reusability
+- Polymorphism (method overriding / abstraction)
+- Relationship modeling between classes
+- Real-world entity mapping to Java classes
+
+**Learning Outcome**
+- Improved logical thinking through problem analysis
+- Designing scalable and maintainable object-oriented solutions
+- Translating real-world scenarios into clean OOPS architecture
+
+--------------------------------
