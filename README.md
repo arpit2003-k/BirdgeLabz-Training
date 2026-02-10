@@ -1915,3 +1915,48 @@ BridgeLabz-Training/
 - Translating real-world scenarios into clean OOPS architecture
 
 --------------------------------
+### 🔹 Day 42: Multithreading – Scenario-Based Problem
+
+**Focus Area**
+- Multithreading with synchronization using a real-world banking scenario
+
+**Scenario: Bank Transactions System**
+- Multiple customers performing deposits and withdrawals concurrently
+
+**Core Components**
+- `Bank` class
+  - `deposit(accountNumber, amount)`
+  - `withdraw(accountNumber, amount)`
+  - `getBalance(accountNumber)`
+- `Customer` class
+  - Represents a user performing transactions
+- `Main` (Driver) class
+  - Simulates concurrent customer activity using threads
+
+**Multithreading Concepts Used**
+- Creating threads using `Thread` class
+- Concurrent execution of customer transactions
+- Synchronization to ensure thread safety
+- Preventing race conditions and data inconsistency
+
+**Key Concepts Practiced**
+- Thread-safe methods
+- Synchronized blocks / methods
+- Shared resource handling
+- Interleaved execution of threads
+- Safe update of account balance
+
+**Demonstration**
+- Print statements to track:
+  - Transaction sequence
+  - Deposits and withdrawals
+  - Final account balances
+
+**Learning Outcome**
+- Understanding concurrency in real-world systems
+- Writing safe multithreaded Java code
+- Applying synchronization to critical sections
+
+👉[Java Multithreading Sceanrio based](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/java-design-patterns-practice/java-design-patterns-practice/scenariobased-code)
+
+--------------------------------
