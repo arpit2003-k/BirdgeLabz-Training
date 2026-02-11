@@ -575,7 +575,7 @@ BridgeLabz-Training/
 * used proper approach to Solve the problems  
 * Followed functional programming structure
 
-### 🧪 Java Programs Implemented Stack and Queue Core concept DSA
+#### 🧪 Java Programs Implemented Stack and Queue Core concept DSA
 * Learn about the keywords in java ---
 * Liner Data Structure
 * Stack
@@ -589,12 +589,12 @@ BridgeLabz-Training/
 * Lifo principle
 * Fifo principle
 
-### Type of Queue 
+#### Type of Queue 
 * Single ended
 * Double ended
 * Circular Queue  etc..
    
-### Basic problem of Scenario based using the concept of OOPS
+#### Basic problem of Scenario based using the concept of OOPS
 * Encapulation
 * Polymorphism
 * abstraction
