@@ -120,6 +120,13 @@ BridgeLabz-Training/
     │               └── com/
     │                   ├── DesignPattern/
     │                   ├── MultiThreading/
+    │── mysql-jdbc-practice/
+    │   └── gcr-codebase/
+    │       └── MysqlJdbcPractice/
+    │           └── src/
+    │               └── com/
+    │                   ├── mysql/  
+    │                   └── jdbc/
     ├── leet-code-codebase/
     ├── scenario-based/
     └── README.md
@@ -1960,3 +1967,69 @@ BridgeLabz-Training/
 👉[Java Multithreading Sceanrio based](https://github.com/arpit2003-k/BirdgeLabz-Training/tree/java-design-patterns-practice/java-design-patterns-practice/scenariobased-code)
 
 --------------------------------
+### 🔹 Day 43: DBMS, SQL & MySQL Fundamentals
+
+**Focus Area**
+- Understanding Database Management Systems
+- Writing SQL queries
+- Working with MySQL database
+
+**DBMS Concepts Covered**
+- What is DBMS?
+- Types of databases (RDBMS, NoSQL – basic overview)
+- Database vs DBMS
+- Tables, Rows, Columns
+- Primary Key & Foreign Key
+- Constraints (NOT NULL, UNIQUE, CHECK, DEFAULT)
+- Normalization (1NF, 2NF, 3NF – basics)
+- ACID Properties
+  - Atomicity
+  - Consistency
+  - Isolation
+  - Durability
+
+**SQL Concepts Practiced**
+- DDL (Data Definition Language)
+  - CREATE
+  - ALTER
+  - DROP
+- DML (Data Manipulation Language)
+  - INSERT
+  - UPDATE
+  - DELETE
+- DQL (Data Query Language)
+  - SELECT
+  - WHERE
+  - ORDER BY
+  - GROUP BY
+  - HAVING
+- TCL (Transaction Control Language)
+  - COMMIT
+  - ROLLBACK
+
+**Advanced SQL Topics**
+- JOINS (INNER, LEFT, RIGHT, FULL – concept)
+- Aggregate Functions (COUNT, SUM, AVG, MAX, MIN)
+- Subqueries
+- Indexes (basic understanding)
+- Constraints implementation
+
+**MySQL Hands-On Practice**
+- Creating database and tables
+- Inserting sample records
+- Writing queries for filtering and sorting
+- Performing JOIN operations
+- Using GROUP BY with aggregate functions
+- Implementing primary and foreign key relationships
+
+**Real-World Application**
+- Designing Employee / Student database schema
+- Querying department-wise salary reports
+- Generating summary reports using aggregation
+- Managing transactions safely
+
+**Learning Outcome**
+- Strong foundation in relational databases
+- Writing efficient SQL queries
+- Understanding how backend applications interact with databases
+- Preparation for backend development and interview questions
