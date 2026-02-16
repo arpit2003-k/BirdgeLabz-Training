@@ -2070,3 +2070,38 @@ BridgeLabz-Training/
 - Solving real-world database problems
 
 --------------------------------
+### 🔹 Day 45: JDBC (Java + Database Connectivity)
+
+**Focus Area**
+- Connecting Java applications to MySQL database
+
+**Core Concepts**
+- What is JDBC?
+- JDBC Architecture
+- JDBC Drivers
+- Steps to connect Java with Database:
+  1. Load Driver
+  2. Establish Connection
+  3. Create Statement
+  4. Execute Query
+  5. Process ResultSet
+  6. Close Connection
+
+**Types of Statements**
+- Statement
+- PreparedStatement
+- CallableStatement (intro)
+
+**Operations Performed**
+- Insert records into database
+- Update records
+- Delete records
+- Fetch records using SELECT
+- Handling SQL exceptions
+
+**Learning Outcome**
+- Building database-driven Java applications
+- Understanding backend data interaction
+- Writing secure queries using PreparedStatement
+
+--------------------------------
