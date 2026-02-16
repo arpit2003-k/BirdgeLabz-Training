@@ -2033,3 +2033,40 @@ BridgeLabz-Training/
 - Writing efficient SQL queries
 - Understanding how backend applications interact with databases
 - Preparation for backend development and interview questions
+
+--------------------------------
+### 🔹 Day 44: Advanced SQL + Joins Practice
+
+**Focus Area**
+- Mastering complex SQL queries
+- Deep understanding of JOIN operations
+
+**Topics Covered**
+- INNER JOIN
+- LEFT JOIN
+- RIGHT JOIN
+- FULL JOIN (concept)
+- Self Join
+- Cross Join
+- Multiple table joins
+- Nested queries (Subqueries)
+- Correlated subqueries
+- EXISTS & NOT EXISTS
+- GROUP BY with HAVING
+- CASE statements
+- Indexes (performance basics)
+
+**Hands-On Practice**
+- Employee–Department relationship queries
+- Department-wise salary reports
+- Finding highest / second highest salary
+- Customers without orders
+- Orders without customers
+- Aggregation with filtering
+
+**Learning Outcome**
+- Writing optimized SQL queries
+- Understanding relational data linking
+- Solving real-world database problems
+
+--------------------------------
