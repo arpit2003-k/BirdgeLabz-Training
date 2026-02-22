@@ -2135,3 +2135,29 @@ BridgeLabz-Training/
 - Building reliable enterprise applications
 
 --------------------------------
+### 🔹 Day 47: Scenario-Based Practice (Database + JDBC)
+
+**Focus Area**
+- Applying SQL and JDBC concepts to real-world scenarios
+
+**Scenario Practice Examples**
+- Banking system (account transfer with transaction handling)
+- Employee management system (CRUD operations)
+- Order management system (customer-order relationship)
+- Student result processing system
+- Inventory management with stock updates
+
+**Concepts Applied**
+- SQL Joins
+- Aggregation queries
+- PreparedStatement usage
+- Transaction management
+- Exception handling
+- Clean layered architecture approach
+
+**Learning Outcome**
+- Real-world problem solving using DB + Java
+- Integrating SQL logic into Java applications
+- Confidence in backend development workflow
+
+--------------------------------
