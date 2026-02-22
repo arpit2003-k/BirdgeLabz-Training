@@ -2105,3 +2105,33 @@ BridgeLabz-Training/
 - Writing secure queries using PreparedStatement
 
 --------------------------------
+### 🔹 Day 46: Advanced JDBC + Transactions
+
+**Focus Area**
+- Transaction management and advanced JDBC handling
+
+**Topics Covered**
+- Auto-commit mode
+- Commit and Rollback
+- Transaction management in JDBC
+- Batch processing
+- Handling multiple queries safely
+- Connection pooling (concept overview)
+- Proper resource management (try-with-resources)
+
+**Transaction Concepts**
+- ACID properties in real-time use
+- Maintaining data consistency
+- Preventing partial updates
+
+**Hands-On Practice**
+- Bank transfer simulation using transactions
+- Multiple inserts using batch processing
+- Rollback scenario demonstration
+
+**Learning Outcome**
+- Writing safe transactional database code
+- Preventing data inconsistency
+- Building reliable enterprise applications
+
+--------------------------------
